@@ -8,6 +8,14 @@ This patch upgrades the chatbot from simple RAG-only answering to:
 4. Safer API response with optional memory support
 5. DOCX table extraction support for future re-ingestion
 
+## Local hosting
+
+This is a fully locally hosted chatbot. The application, RAG pipeline,
+knowledge base, and model runtime are designed to run on your own computer
+or server. It uses local files and locally managed models, including Ollama,
+and does not require cloud hosting or external inference APIs. GitHub is used
+only for source-code storage and version control.
+
 ## Files included
 
 - app/rag/structured_kb.py
