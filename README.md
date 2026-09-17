@@ -10,22 +10,22 @@ This patch upgrades the chatbot from simple RAG-only answering to:
 
 ## Files included
 
-- backend/rag/structured_kb.py
-- backend/rag/structured_answer.py
-- backend/terminal_chat.py
-- backend/app.py
-- backend/rag/extract.py
+- app/rag/structured_kb.py
+- app/rag/structured_answer.py
+- app/terminal_chat.py
+- app/app.py
+- app/rag/extract.py
 
 ## How to apply
 
 Copy these files into your existing project:
 
-D:\Projects\iubc\backend
+D:\Projects\iubc\app
 
 Then run:
 
 ```powershell
-cd D:\Projects\iubc\backend
+cd D:\Projects\iubc\app
 python terminal_chat.py
 ```
 
@@ -46,7 +46,7 @@ python terminal_chat.py
 Because extract.py now supports DOCX tables, you can later rebuild the vector database:
 
 ```powershell
-cd D:\Projects\iubc\backend
+cd D:\Projects\iubc\app
 Remove-Item -Recurse -Force .\chroma_db
 Remove-Item -Recurse -Force .\processed_data
 python -m rag.ingest
