@@ -1,0 +1,166 @@
+[
+  {
+    "question": "hi",
+    "seconds": 0.0018,
+    "answered": true,
+    "answer": "Hello! I can answer questions about IUB admissions, fees, departments, faculties, hostels, scholarships, contacts, and university information.",
+    "sources": []
+  },
+  {
+    "question": "what is fee of BS CS",
+    "seconds": 0.0208,
+    "answered": true,
+    "answer": "Fee structure for BS Computer Science:\n• Group-A: tuition fee 38030, other dues 27130, 1st semester total 65160, 2nd and other semesters total 51650\n• Group-B: tuition fee 52545, other dues 27130, 1st semester total 79675, 2nd and other semesters total 66165",
+    "sources": [
+      {
+        "source": "Revised fee.docx",
+        "category": "fees",
+        "score": "kb"
+      }
+    ]
+  },
+  {
+    "question": "who is vc",
+    "seconds": 0.0024,
+    "answered": true,
+    "answer": "Prof. Dr. Engr. Muhammad Kamran serves as Vice Chancellor of the IUB.",
+    "sources": [
+      {
+        "source": "Vice chancellor.docx",
+        "category": "faculty and departments",
+        "score": "kb"
+      }
+    ]
+  },
+  {
+    "question": "tell about faculty of computing",
+    "seconds": 0.0044,
+    "answered": true,
+    "answer": "Faculty of Computing includes the following departments/institutes/units:\n• Artificial Intelligence: MS Artificial Intelligence, PhD Artificial Intelligence\n• Computer Science: MS Computer Science (E/W), PhD Computer Science\n• Data science: MS Data Science\n• Information Security: MS Information Security (E/W)\n• Information Technology: MS Information Technology, MS Information Technology Project Management, PhD Information Technology\n• Software Engineering: MS Software Engineering\n• Statistics: MPhil Statistics (E/W), PhD Statistics\n\nDean/Head information for this faculty is not clearly available.",
+    "sources": [
+      {
+        "source": "faculties with department.pdf",
+        "category": "faculty and departments",
+        "score": "kb"
+      }
+    ]
+  },
+  {
+    "question": "tell about department of chemistry",
+    "seconds": 0.0137,
+    "answered": true,
+    "answer": "Institute of Chemistry is listed under Faculty of Chemical & Biological Sciences.\nAvailable programs:\n• MPhil Chemistry (Analytical, Inorganic, Organic, Physical)\n• PhD Chemistry (Analytical, Inorganic, Organic, Physical)",
+    "sources": [
+      {
+        "source": "faculties with department.pdf",
+        "category": "faculty and departments",
+        "score": "kb"
+      }
+    ]
+  },
+  {
+    "question": "tell about fee of phd in AI",
+    "seconds": 0.0025,
+    "answered": true,
+    "answer": "Sorry, I could not find official information about fee structure for that degree/program.",
+    "sources": []
+  },
+  {
+    "question": "PHD in AI fee structure",
+    "seconds": 0.0021,
+    "answered": true,
+    "answer": "Sorry, I could not find official information about fee structure for that degree/program.",
+    "sources": []
+  },
+  {
+    "question": "tell about iub campuses",
+    "seconds": 0.0031,
+    "answered": true,
+    "answer": "IUB campuses include:\n• Abbasia Campus\n• Baghdad-ul-Jadeed Campus\n• Bahawalnagar Sub-Campus\n• Khawaja Fareed Campus\n• Liaquatpur Sub-Campus\n• Rahim Yar Khan Sub-Campus",
+    "sources": [
+      {
+        "source": "Abbasia Campus.docx",
+        "category": "campuses",
+        "score": "kb"
+      },
+      {
+        "source": "Baghdad-ul-Jadeed Campus.docx",
+        "category": "campuses",
+        "score": "kb"
+      },
+      {
+        "source": "Bahawalnagar Sub-Campus.docx",
+        "category": "campuses",
+        "score": "kb"
+      },
+      {
+        "source": "Khawaja Fareed Campus.docx",
+        "category": "campuses",
+        "score": "kb"
+      },
+      {
+        "source": "Liaquatpur Sub-Campus.docx",
+        "category": "campuses",
+        "score": "kb"
+      },
+      {
+        "source": "Rahim Yar Khan Sub-Campus.docx",
+        "category": "campuses",
+        "score": "kb"
+      }
+    ]
+  },
+  {
+    "question": "tell about rahim yar khan campus",
+    "seconds": 0.0037,
+    "answered": true,
+    "answer": "Rahim Yar Khan Sub-Campus was established in 2005.",
+    "sources": [
+      {
+        "source": "Rahim Yar Khan Sub-Campus.docx",
+        "category": "campuses",
+        "score": "kb"
+      }
+    ]
+  },
+  {
+    "question": "which progeams are offered in khwaja fareed campus",
+    "seconds": 0.0034,
+    "answered": true,
+    "answer": "I could not find a program list for Khawaja Fareed Campus. The campus information mentions the Faculty of Pharmacy and the Faculty of Medicine and Allied Health Sciences there.",
+    "sources": [
+      {
+        "source": "Khawaja Fareed Campus.docx",
+        "category": "campuses",
+        "score": "kb"
+      }
+    ]
+  },
+  {
+    "question": "which faculties are present in khawaja fareed campus",
+    "seconds": 0.0036,
+    "answered": true,
+    "answer": "Khawaja Fareed Campus has the Faculty of Pharmacy and the Faculty of Medicine and Allied Health Sciences.",
+    "sources": [
+      {
+        "source": "Khawaja Fareed Campus.docx",
+        "category": "campuses",
+        "score": "kb"
+      }
+    ]
+  },
+  {
+    "question": "who are you",
+    "seconds": 0.0001,
+    "answered": true,
+    "answer": "I am the IUB Offline RAG Chatbot, an AI assistant for answering questions about IUB admissions, fees, departments, faculties, hostels, scholarships, campuses, contacts, and related university information.",
+    "sources": []
+  },
+  {
+    "question": "you are a chatbot",
+    "seconds": 0.0001,
+    "answered": true,
+    "answer": "I am the IUB Offline RAG Chatbot, an AI assistant for answering questions about IUB admissions, fees, departments, faculties, hostels, scholarships, campuses, contacts, and related university information.",
+    "sources": []
+  }
+]

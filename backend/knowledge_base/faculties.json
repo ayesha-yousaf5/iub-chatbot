@@ -1,0 +1,1360 @@
+[
+  {
+    "faculty": "Faculty of Arts & Languages",
+    "faculty_norm": "faculty of arts and languages",
+    "units": [
+      {
+        "name": "English Linguistics",
+        "name_norm": "english linguistics",
+        "programs": [
+          "MPhil English Linguistics",
+          "PhD English Linguistics"
+        ]
+      },
+      {
+        "name": "English Literature",
+        "name_norm": "english literature",
+        "programs": [
+          "MPhil English Literature",
+          "PhD English Literature"
+        ]
+      },
+      {
+        "name": "History",
+        "name_norm": "history",
+        "programs": [
+          "MPhil History (E/W)",
+          "PhD History (E/W)"
+        ]
+      },
+      {
+        "name": "Iqbal Studies",
+        "name_norm": "iqbal studies",
+        "programs": [
+          "MPhil Iqbal Studies",
+          "PhD Iqbal Studies"
+        ]
+      },
+      {
+        "name": "Siraiki",
+        "name_norm": "siraiki",
+        "programs": [
+          "MPhil Siraiki",
+          "PhD Siraiki"
+        ]
+      },
+      {
+        "name": "Persian",
+        "name_norm": "persian",
+        "programs": [
+          "MPhil Persian (E/W)",
+          "PhD Persian"
+        ]
+      },
+      {
+        "name": "Pakistan Studies",
+        "name_norm": "pakistan studies",
+        "programs": [
+          "MPhil Pakistan Studies (E/W)",
+          "PhD Pakistan Studies (E/W)"
+        ]
+      },
+      {
+        "name": "Urdu & Iqbaliat",
+        "name_norm": "urdu and iqbaliat",
+        "programs": [
+          "MPhil Urdu & Iqbaliat",
+          "PhD Urdu & Iqbaliat"
+        ]
+      },
+      {
+        "name": "University College of Arts and Design",
+        "name_norm": "university college of arts and design",
+        "programs": [
+          "MFA in Visual Arts (Equivalent to 18 years of Education)"
+        ]
+      }
+    ],
+    "source": "faculties with department.pdf",
+    "category": "faculty and departments"
+  },
+  {
+    "faculty": "Faculty of Agriculture and Environmental Sciences",
+    "faculty_norm": "faculty of agriculture and environmental sciences",
+    "units": [
+      {
+        "name": "Agronomy",
+        "name_norm": "agronomy",
+        "programs": [
+          "MSc (Hons) Agronomy",
+          "PhD Agronomy"
+        ]
+      },
+      {
+        "name": "Entomology",
+        "name_norm": "entomology",
+        "programs": [
+          "MSc (Hons) Entomology",
+          "PhD Entomology"
+        ]
+      },
+      {
+        "name": "Institute of Forest Sciences",
+        "name_norm": "institute of forest sciences",
+        "programs": [
+          "MSc (Hons) Forestry",
+          "MPhil Forestry",
+          "MPhil Wildlife",
+          "PhD Forestry",
+          "PhD Wildlife"
+        ]
+      },
+      {
+        "name": "Food Science & Technology",
+        "name_norm": "food science and technology",
+        "programs": [
+          "MSc (Hons) Food Science & Technology",
+          "PhD Food Science & Technology"
+        ]
+      },
+      {
+        "name": "Horticulture Sciences",
+        "name_norm": "horticulture sciences",
+        "programs": [
+          "MSc (Hons) Horticulture Sciences",
+          "PhD Horticulture Sciences"
+        ]
+      },
+      {
+        "name": "Plant Breeding and Genetics",
+        "name_norm": "plant breeding and genetics",
+        "programs": [
+          "MSc (Hons) Plant Breeding and Genetics",
+          "PhD Plant Breeding and Genetics"
+        ]
+      },
+      {
+        "name": "Plant Pathology",
+        "name_norm": "plant pathology",
+        "programs": [
+          "MSc (Hons) Plant Pathology",
+          "PhD Plant Pathology"
+        ]
+      },
+      {
+        "name": "Soil Science",
+        "name_norm": "soil science",
+        "programs": [
+          "MSc (Hons) Soil Science",
+          "PhD Soil Science"
+        ]
+      },
+      {
+        "name": "Institute of Agro-Industry & Environment",
+        "name_norm": "institute of agro-industry and environment",
+        "programs": [
+          "MS Environmental Sciences(E/W)",
+          "PhD Environmental Science"
+        ]
+      },
+      {
+        "name": "Agriculture Extension",
+        "name_norm": "agriculture extension",
+        "programs": [
+          "MSc (Hons) Agriculture- Agricultural Extension Education"
+        ]
+      }
+    ],
+    "source": "faculties with department.pdf",
+    "category": "faculty and departments"
+  },
+  {
+    "faculty": "Faculty of Chemical & Biological Sciences",
+    "faculty_norm": "faculty of chemical and biological sciences",
+    "units": [
+      {
+        "name": "Institute of Chemistry",
+        "name_norm": "institute of chemistry",
+        "programs": [
+          "MPhil Chemistry (Analytical, Inorganic, Organic, Physical)",
+          "PhD Chemistry (Analytical, Inorganic, Organic, Physical"
+        ]
+      },
+      {
+        "name": "Zoology",
+        "name_norm": "zoology",
+        "programs": [
+          "MS Zoology",
+          "PhD Zoology"
+        ]
+      },
+      {
+        "name": "Botany",
+        "name_norm": "botany",
+        "programs": [
+          "MS Botany",
+          "PhD Botany"
+        ]
+      },
+      {
+        "name": "Institute of Biochemistry,Biotechnology",
+        "name_norm": "institute of biochemistry biotechnology",
+        "programs": []
+      },
+      {
+        "name": "& Bioinformatics",
+        "name_norm": "and bioinformatics",
+        "programs": [
+          "MS Biochemistry",
+          "MS Molecular Biology",
+          "PhD Molecular Biology",
+          "PhD Biochemistry",
+          "MS Biotechnology",
+          "PhD Biotechnology",
+          "MS Bioinformatics"
+        ]
+      }
+    ],
+    "source": "faculties with department.pdf",
+    "category": "faculty and departments"
+  },
+  {
+    "faculty": "Faculty of Computing",
+    "faculty_norm": "faculty of computing",
+    "units": [
+      {
+        "name": "Artificial Intelligence",
+        "name_norm": "artificial intelligence",
+        "programs": [
+          "MS Artificial Intelligence",
+          "PhD Artificial Intelligence"
+        ]
+      },
+      {
+        "name": "Computer Science",
+        "name_norm": "computer science",
+        "programs": [
+          "MS Computer Science (E/W)",
+          "PhD Computer Sciecne"
+        ]
+      },
+      {
+        "name": "Data science",
+        "name_norm": "data science",
+        "programs": [
+          "MS Date Science"
+        ]
+      },
+      {
+        "name": "Information Security",
+        "name_norm": "information security",
+        "programs": [
+          "MS Information Security (E/W)"
+        ]
+      },
+      {
+        "name": "Information Technology",
+        "name_norm": "information technology",
+        "programs": [
+          "MS Information Technology",
+          "MS Information Technology Project Management",
+          "PhD Information Technology"
+        ]
+      },
+      {
+        "name": "Software Engineering",
+        "name_norm": "software engineering",
+        "programs": [
+          "MS Software Engineering"
+        ]
+      },
+      {
+        "name": "Statistics",
+        "name_norm": "statistics",
+        "programs": [
+          "MPhil Statistics (E/W)",
+          "PhD Statistics"
+        ]
+      }
+    ],
+    "source": "faculties with department.pdf",
+    "category": "faculty and departments"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "faculty_norm": "faculty of education",
+    "units": [
+      {
+        "name": "Education",
+        "name_norm": "education",
+        "programs": [
+          "MPhil Education (E/W)",
+          "PhD Education (E/W)"
+        ]
+      },
+      {
+        "name": "Educational Training",
+        "name_norm": "educational training",
+        "programs": [
+          "MPhil Educational Training (E/W)",
+          "PhD Educational Training"
+        ]
+      },
+      {
+        "name": "Educational Leadership & Management",
+        "name_norm": "educational leadership and management",
+        "programs": [
+          "MPhil Educational Leadership & Management (E/W)",
+          "PhD Educational Leadership & Management (E/W)"
+        ]
+      },
+      {
+        "name": "Language Education",
+        "name_norm": "language education",
+        "programs": [
+          "MPhil English Language Teaching",
+          "PhD English Language Teaching"
+        ]
+      },
+      {
+        "name": "Special Education",
+        "name_norm": "special education",
+        "programs": [
+          "MPhil Special Education (E/W)"
+        ]
+      },
+      {
+        "name": "Physical Education and Sports Sciences",
+        "name_norm": "physical education and sports sciences",
+        "programs": [
+          "MPhil Physical Education & Sports Sciences"
+        ]
+      }
+    ],
+    "source": "faculties with department.pdf",
+    "category": "faculty and departments"
+  },
+  {
+    "faculty": "Faculty of Engineering and Technology",
+    "faculty_norm": "faculty of engineering and technology",
+    "units": [
+      {
+        "name": "Computer Systems Engineering",
+        "name_norm": "computer systems engineering",
+        "programs": [
+          "MSc Computer System Engineering"
+        ]
+      },
+      {
+        "name": "Electrical Power Engineering",
+        "name_norm": "electrical power engineering",
+        "programs": [
+          "MSc Electrical Power Engineering",
+          "PhD Electrical Engineering"
+        ]
+      },
+      {
+        "name": "Information & Communication",
+        "name_norm": "information and communication",
+        "programs": []
+      },
+      {
+        "name": "Engineering",
+        "name_norm": "engineering",
+        "programs": [
+          "MSc Electrical Engineering"
+        ]
+      },
+      {
+        "name": "(Communication & Signal Processing)",
+        "name_norm": "communication and signal processing",
+        "programs": [
+          "MSc Biomedical Engineering"
+        ]
+      },
+      {
+        "name": "Electronics Engineering",
+        "name_norm": "electronics engineering",
+        "programs": [
+          "MSc Advanced Electronics & Control System Engineering"
+        ]
+      },
+      {
+        "name": "Civil Engineering",
+        "name_norm": "civil engineering",
+        "programs": [
+          "MS Civil Engineering",
+          "PhD Civil Engineering"
+        ]
+      },
+      {
+        "name": "Advanced Electronic & Control System",
+        "name_norm": "advanced electronic and control system",
+        "programs": [
+          "MSc Advanced Electronic & Control System"
+        ]
+      },
+      {
+        "name": "Engineering",
+        "name_norm": "engineering",
+        "programs": []
+      }
+    ],
+    "source": "faculties with department.pdf",
+    "category": "faculty and departments"
+  },
+  {
+    "faculty": "Faculty of Islamic Learning",
+    "faculty_norm": "faculty of islamic learning",
+    "units": [
+      {
+        "name": "Arabic",
+        "name_norm": "arabic",
+        "programs": [
+          "MPhil Arabic",
+          "PhD Arabic"
+        ]
+      },
+      {
+        "name": "Fiqh & Shariah",
+        "name_norm": "fiqh and shariah",
+        "programs": [
+          "MPhil Islamic Studies with Specialization in Fiqh &"
+        ]
+      },
+      {
+        "name": "Shariah",
+        "name_norm": "shariah",
+        "programs": [
+          "PhD Islamic Studies Islamic Studies with Specializa­"
+        ]
+      },
+      {
+        "name": "tion in Fiqh and Sharia",
+        "name_norm": "tion in fiqh and sharia",
+        "programs": []
+      },
+      {
+        "name": "Hadith",
+        "name_norm": "hadith",
+        "programs": [
+          "PhD Islamic Studies with"
+        ]
+      },
+      {
+        "name": "specialization in Hadith & Seerah",
+        "name_norm": "specialization in hadith and seerah",
+        "programs": []
+      },
+      {
+        "name": "Islamic Studies",
+        "name_norm": "islamicstudies",
+        "programs": [
+          "MPhil Islamic Studies",
+          "PhD Islamic Studies"
+        ]
+      },
+      {
+        "name": "Quranic Studies",
+        "name_norm": "quranicstudies",
+        "programs": [
+          "MPhil Islamic Studies With Specialization in Quran"
+        ]
+      },
+      {
+        "name": "wa Tafseer",
+        "name_norm": "wa tafseer",
+        "programs": [
+          "PhD Islamic Studies with Specialization in Quran &"
+        ]
+      },
+      {
+        "name": "Tafseer",
+        "name_norm": "tafseer",
+        "programs": []
+      },
+      {
+        "name": "World Religions & Interfaith Harmony",
+        "name_norm": "world religions and interfaith harmony",
+        "programs": [
+          "MPhil Islamic Studies with Specialization in World"
+        ]
+      },
+      {
+        "name": "Religions & Interfaith Harmony",
+        "name_norm": "religions and interfaith harmony",
+        "programs": [
+          "PhD Islamic Studies with Specialization in World"
+        ]
+      },
+      {
+        "name": "Religions and Interfaith Harmony",
+        "name_norm": "religions and interfaith harmony",
+        "programs": []
+      }
+    ],
+    "source": "faculties with department.pdf",
+    "category": "faculty and departments"
+  },
+  {
+    "faculty": "Faculty of Management Sciences and Commerce",
+    "faculty_norm": "faculty of management sciences and commerce",
+    "units": [
+      {
+        "name": "Commerce",
+        "name_norm": "commerce",
+        "programs": [
+          "MPhil Commerce",
+          "MS Banking and Finance",
+          "PhD Commerce"
+        ]
+      },
+      {
+        "name": "Institute of Business Management and",
+        "name_norm": "institute of business management and",
+        "programs": []
+      },
+      {
+        "name": "Administrative Sciences",
+        "name_norm": "administrative sciences",
+        "programs": [
+          "MS Management Sciences (E/W)",
+          "MBA for Non-Business Graduates (E/W)",
+          "MBA (E/W)",
+          "PhD Management Sciences (E/W)"
+        ]
+      },
+      {
+        "name": "Administrative Sciences",
+        "name_norm": "administrative sciences",
+        "programs": [
+          "MS Administrative and Management Sciences (E/W)"
+        ]
+      },
+      {
+        "name": "Finance and Investment",
+        "name_norm": "finance and investment",
+        "programs": [
+          "MS Finance & Investment (E/W)"
+        ]
+      },
+      {
+        "name": "Project and Operations Management",
+        "name_norm": "project and operations management",
+        "programs": [
+          "MS Operations & Supply Chain Management (E/W)",
+          "MS Project Management (E/W)",
+          "MBA Supply Chain Management (E/W)"
+        ]
+      },
+      {
+        "name": "Islamic & Conventional Banking",
+        "name_norm": "islamic and conventional banking",
+        "programs": [
+          "MS Islamic Banking & Finance (E/W)"
+        ]
+      },
+      {
+        "name": "Leadership & Management",
+        "name_norm": "leadership and management",
+        "programs": [
+          "MS Leadership & Management (E/W)",
+          "PhD Leadership & Management (E/W)"
+        ]
+      },
+      {
+        "name": "Tourism & Hospitality Management",
+        "name_norm": "tourism and hospitality management",
+        "programs": [
+          "MBA Tourism & Hospitality Management (E/W)"
+        ]
+      }
+    ],
+    "source": "faculties with department.pdf",
+    "category": "faculty and departments"
+  },
+  {
+    "faculty": "Faculty of Medicine and Allied Health Sciences",
+    "faculty_norm": "faculty of medicine and allied health sciences",
+    "units": [
+      {
+        "name": "Sir Sadiq Muhammad Khan Abbasi Post",
+        "name_norm": "sir sadiq muhammad khan abbasi post",
+        "programs": []
+      },
+      {
+        "name": "Graduate Medical College",
+        "name_norm": "graduate medical college",
+        "programs": [
+          "MPhil Pharmacology",
+          "MPhil Physiology"
+        ]
+      },
+      {
+        "name": "University College of Conventional",
+        "name_norm": "university college of conventional",
+        "programs": []
+      },
+      {
+        "name": "Medicine",
+        "name_norm": "medicine",
+        "programs": [
+          "MPhil Eastern Medicine",
+          "MPhil Phytomedicine",
+          "PhD Eastern Medicine",
+          "PhD Phytomedicine"
+        ]
+      },
+      {
+        "name": "University College of Nursing",
+        "name_norm": "university college of nursing",
+        "programs": [
+          "MS Nursing (Morning Program)"
+        ]
+      }
+    ],
+    "source": "faculties with department.pdf",
+    "category": "faculty and departments"
+  },
+  {
+    "faculty": "Faculty of Pharmacy",
+    "faculty_norm": "faculty of pharmacy",
+    "units": [
+      {
+        "name": "Pharmaceutics",
+        "name_norm": "pharmaceutics",
+        "programs": [
+          "MPhil Pharmaceuticst",
+          "PhD Pharmaceutics"
+        ]
+      },
+      {
+        "name": "Pharmaceutical Chemistry",
+        "name_norm": "pharmaceutical chemistry",
+        "programs": [
+          "MPhil Pharmaceutical Chemistry",
+          "PhD Pharmaceutical Chemistry"
+        ]
+      },
+      {
+        "name": "Pharmacology",
+        "name_norm": "pharmacology",
+        "programs": [
+          "MPhil Pharmacology",
+          "PhD Pharmacology"
+        ]
+      },
+      {
+        "name": "Pharmacy Practice",
+        "name_norm": "pharmacy practice",
+        "programs": [
+          "MPhil Pharmacy Practice",
+          "PhD Pharmacy practice"
+        ]
+      },
+      {
+        "name": "Pharmacognosy",
+        "name_norm": "pharmacognosy",
+        "programs": [
+          "MPhil Pharmacognosy",
+          "PhD Pharmacognosy"
+        ]
+      }
+    ],
+    "source": "faculties with department.pdf",
+    "category": "faculty and departments"
+  },
+  {
+    "faculty": "Faculty of Physical and Mathematical Sciences",
+    "faculty_norm": "faculty of physical and mathematical sciences",
+    "units": [
+      {
+        "name": "Mathematics",
+        "name_norm": "mathematics",
+        "programs": [
+          "MPhil Mathematics",
+          "PhD Mathematics"
+        ]
+      },
+      {
+        "name": "Geography",
+        "name_norm": "geography",
+        "programs": [
+          "MPhil Geography",
+          "PhD Geography"
+        ]
+      },
+      {
+        "name": "Institute of Physics",
+        "name_norm": "institute of physics",
+        "programs": [
+          "MPhil Physics"
+        ]
+      },
+      {
+        "name": "(Medical Physics, Materials Science, Condensed Matter Physics, Semi­",
+        "name_norm": "medical physics materials science condensed matter physics semi",
+        "programs": []
+      },
+      {
+        "name": "conductors & Nanotechnology, Renewable Energy, Particle Physics)",
+        "name_norm": "conductors and nanotechnology renewable energy particle physics",
+        "programs": [
+          "PhD Physics"
+        ]
+      }
+    ],
+    "source": "faculties with department.pdf",
+    "category": "faculty and departments"
+  },
+  {
+    "faculty": "Faculty of Social Sciences",
+    "faculty_norm": "faculty of social sciences",
+    "units": [
+      {
+        "name": "Applied Psychology",
+        "name_norm": "applied psychology",
+        "programs": [
+          "MPhil Applied Psychology (E/W)",
+          "PhD Applied Psychology"
+        ]
+      },
+      {
+        "name": "Economics",
+        "name_norm": "economics",
+        "programs": [
+          "MPhil Economics (E/W)",
+          "PhD Economics"
+        ]
+      },
+      {
+        "name": "Gender Studies",
+        "name_norm": "gender studies",
+        "programs": [
+          "MPhil Gender Studies (E/W)"
+        ]
+      },
+      {
+        "name": "International Relations",
+        "name_norm": "international relations",
+        "programs": [
+          "MPhil International Relations",
+          "MPhil Defense & Diplomatic Studies",
+          "PhD International Relations"
+        ]
+      },
+      {
+        "name": "Information Management",
+        "name_norm": "information management",
+        "programs": [
+          "MPhil Information Management",
+          "PhD Information Management"
+        ]
+      },
+      {
+        "name": "Media & Communication Studies",
+        "name_norm": "media and communication studies",
+        "programs": [
+          "MPhil Media Studies",
+          "PhD Media Studies"
+        ]
+      },
+      {
+        "name": "Political Science",
+        "name_norm": "political science",
+        "programs": [
+          "MPhil Political Science",
+          "PhD Political Science"
+        ]
+      },
+      {
+        "name": "Public Administration",
+        "name_norm": "public administration",
+        "programs": [
+          "MS Public Administration (E/W)"
+        ]
+      },
+      {
+        "name": "Social Work",
+        "name_norm": "social work",
+        "programs": [
+          "MPhil Social Work (E/W)",
+          "PhD Social Work"
+        ]
+      }
+    ],
+    "source": "faculties with department.pdf",
+    "category": "faculty and departments"
+  },
+  {
+    "faculty": "Faculty of Veterinary and Animal Sciences",
+    "faculty_norm": "faculty of veterinary and animal sciences",
+    "units": [
+      {
+        "name": "Anatomy & Histology",
+        "name_norm": "anatomy and histology",
+        "programs": [
+          "MPhil Anatomy & Histology"
+        ]
+      },
+      {
+        "name": "Animal Nutrition",
+        "name_norm": "animal nutrition",
+        "programs": [
+          "MPhil Animal Nutrition"
+        ]
+      },
+      {
+        "name": "Animal Breeding & Genetics",
+        "name_norm": "animal breeding and genetics",
+        "programs": [
+          "MPhil Animal Breeding & Genetics"
+        ]
+      },
+      {
+        "name": "Livestock Management",
+        "name_norm": "livestock management",
+        "programs": [
+          "MPhil Livestock Management"
+        ]
+      },
+      {
+        "name": "Microbiology",
+        "name_norm": "microbiology",
+        "programs": [
+          "MPhil Microbiology"
+        ]
+      },
+      {
+        "name": "Parasitology",
+        "name_norm": "parasitology",
+        "programs": [
+          "MPhil Parasitology"
+        ]
+      },
+      {
+        "name": "Physiology",
+        "name_norm": "physiology",
+        "programs": [
+          "MPhil Physiology"
+        ]
+      },
+      {
+        "name": "Pathology",
+        "name_norm": "pathology",
+        "programs": [
+          "MPhil Pathology"
+        ]
+      },
+      {
+        "name": "Poultry Science",
+        "name_norm": "poultry science",
+        "programs": [
+          "MPhil Poultry Science"
+        ]
+      },
+      {
+        "name": "Theriogenology",
+        "name_norm": "theriogenology",
+        "programs": [
+          "MPhil Theriogenology"
+        ]
+      },
+      {
+        "name": "Veterinary Clinical Medicine & Surgery",
+        "name_norm": "veterinary clinical medicine and surgery",
+        "programs": [
+          "MPhil Veterinary Clinical Medicine & Surgery"
+        ]
+      },
+      {
+        "name": "Rahim Yar Khan Campus",
+        "name_norm": "rahim yar khan campus",
+        "programs": [
+          "MPhil Computer Science",
+          "MPhil Education",
+          "PhD Education",
+          "MPhil Urdu & Iqbaliat",
+          "MPhil Mathematics",
+          "MPhil Botany",
+          "MPhil Chemistry",
+          "MPhil English Linguistics",
+          "MPhil Islamic Studies",
+          "PhD Islamic Studies",
+          "MPhil Pakistan Studies",
+          "MPhil Physics",
+          "MPhil Management Sciences",
+          "MBA for Non-Business Graduates",
+          "MPhil Zoology"
+        ]
+      },
+      {
+        "name": "Bahawalnagar Campus",
+        "name_norm": "bahawalnagar campus",
+        "programs": [
+          "MPhil Economics (E/W)",
+          "PhD Education (E/W)",
+          "MPhil Management Sciences (E/W)",
+          "MPhil Botany (E/W)",
+          "MPhil Computer Science (E/W)",
+          "MPhil Education (E/W)",
+          "MPhil English Linguistics (E/W)",
+          "MPhil Islamic Studies (E/W)",
+          "PhD Islamic Studies (E/W)",
+          "MPhil Mathematics (E/W)",
+          "MPhil Pakistan Studies (E/W)",
+          "MPhil Urdu & Iqbaliat (E/W)",
+          "MPhil Zoology (E/W)"
+        ]
+      },
+      {
+        "name": "GENERAL INSTRUCTIONS",
+        "name_norm": "general instructions",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "1. Original Documents along with 2 photocopy sets will be required at the time of",
+        "name_norm": "1 original documents along with 2 photocopy sets will be required at the time of",
+        "programs": []
+      },
+      {
+        "name": "admission.",
+        "name_norm": "admission",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "2.Schedule of interview, merit list and IUB departmental test will be announced on",
+        "name_norm": "2 schedule of interview merit list and iub departmental test will be announced on",
+        "programs": []
+      },
+      {
+        "name": "www.iub.edu.pk.",
+        "name_norm": "www iub edu pk",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "3.Candidates are required to pay prescribed admission processing fee for MPhil and",
+        "name_norm": "3 candidates are required to pay prescribed admission processing fee for mphil and",
+        "programs": [
+          "PhD, Programs. Moreover, the candidates desiring to appear in IUB departmental"
+        ]
+      },
+      {
+        "name": "test are required to pay prescribed fee/dues for MPhil/PhD. The fee can be deposited",
+        "name_norm": "test are required to pay prescribed fee/dues for mphil/phd the fee can be deposited",
+        "programs": []
+      },
+      {
+        "name": "in any branch of authorized Banks on challan form downloadable from online",
+        "name_norm": "in any branch of authorized banks on challan form downloadable from online",
+        "programs": []
+      },
+      {
+        "name": "admission portal.",
+        "name_norm": "admission portal",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "4.Original receipt of admission processing fee for MPhil and PhD programs will be",
+        "name_norm": "4 original receipt of admission processing fee for mphil and phd programs will be",
+        "programs": []
+      },
+      {
+        "name": "provided by the applicant at the time of issuance of fee challan. The IUB test fee",
+        "name_norm": "provided by the applicant at the time of issuance of fee challan the iub test fee",
+        "programs": []
+      },
+      {
+        "name": "challan will be furnished at the time of written test without which candidates(s) will",
+        "name_norm": "challan will be furnished at the time of written test without which candidates s will",
+        "programs": []
+      },
+      {
+        "name": "not be allowed to appear in the written test.",
+        "name_norm": "not be allowed to appear in the written test",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "Incomplete application forms will not be entertained. The candidates may visit www.",
+        "name_norm": "incomplete application forms will not be entertained the candidates may visit www",
+        "programs": []
+      },
+      {
+        "name": "iub.edu.pk or eportal.iub.edu.pk for online applications. The candidates who have",
+        "name_norm": "iub edu pk or eportal iub edu pk for online applications the candidates who have",
+        "programs": []
+      },
+      {
+        "name": "already passed GAT (General)/(Subject) and having valid result card(s) issued by",
+        "name_norm": "already passed gat general / subject and having valid result card s issued by",
+        "programs": []
+      },
+      {
+        "name": "NTS, need not register for IUB test",
+        "name_norm": "nts need not register for iub test",
+        "programs": []
+      },
+      {
+        "name": "NOTES:",
+        "name_norm": "notes",
+        "programs": []
+      },
+      {
+        "name": "UNIVERSITY RESERVES THE RIGHT NOT TO START ANY PROGRAM WITHOUT ASSIGNING ANY REASON.",
+        "name_norm": "university reserves the right not to start any program without assigning any reason",
+        "programs": []
+      },
+      {
+        "name": "THESIS OPTION WILL BE AVAILABLE TO SELECTED STUDENTS ONLY. OTHER STUDENTS WILL HAVE NON-",
+        "name_norm": "thesis option will be available to selected students only other students will have non-",
+        "programs": []
+      },
+      {
+        "name": "THESIS OPTION TO COMPLETE MPhil/MS.",
+        "name_norm": "thesis option to complete mphil/ms",
+        "programs": [
+          "DIPLOMAS OFFERED BY THE DEPARTMENTOF APPLIED PSYCHOLOGY (EVENING PROGRAMS)"
+        ]
+      },
+      {
+        "name": "(I) Advanced Diploma in Counseling Psychology",
+        "name_norm": "i advanced diploma in counseling psychology",
+        "programs": []
+      },
+      {
+        "name": "70% marks (annual syﬆem) and a mandatory interview with 50% pass marks.",
+        "name_norm": "70 marks annual sy em and a mandatory interview with 50 pass marks",
+        "programs": []
+      },
+      {
+        "name": "(II) Advanced Diploma in Clinical Psychology",
+        "name_norm": "ii advanced diploma in clinical psychology",
+        "programs": []
+      },
+      {
+        "name": "syﬆem) and a mandatory interview with 50% pass mark.",
+        "name_norm": "sy em and a mandatory interview with 50 pass mark",
+        "programs": []
+      },
+      {
+        "name": "Eligibility Criteria for Admission in MS Nursing",
+        "name_norm": "eligibility criteria for admission in ms nursing",
+        "programs": []
+      },
+      {
+        "name": "Category-I",
+        "name_norm": "category-i",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "10-year of schooling (Matric/FA/FSc 1st Division)",
+        "name_norm": "10-year of schooling matric/fa/fsc 1st division",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "03-year Diploma in Nursing",
+        "name_norm": "03-year diploma in nursing",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "01-year Diploma in Midwifery or any Post Basic Specialty Diploma recognized and registered",
+        "name_norm": "01-year diploma in midwifery or any post basicspecialty diploma recognized and registered",
+        "programs": []
+      },
+      {
+        "name": "with the Pakistan Nursing and Midwifery Council",
+        "name_norm": "with the pakistan nursing and midwifery council",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "01-year experience as RN for admission in Post RN BSN/BSM degree",
+        "name_norm": "01-year experience as rn for admission in post rn bsn/bsm degree",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "02-year Post RN BSN/BSM (CGPA = 2.5), Degree program as speciﬁed by PNC and HEC vide",
+        "name_norm": "02-year post rn bsn/bsm cgpa 2 5 degree program as speci ed by pnc and hec vide",
+        "programs": []
+      },
+      {
+        "name": "Notiﬁcation No. 8(61)/A&A/2018/HEC/5799, dated 26.04.2018 and registered with Pakistan",
+        "name_norm": "noti cation no 8 61 /a and a/2018/hec/5799 dated 26 04 2018 and registered with pakistan",
+        "programs": []
+      },
+      {
+        "name": "Nursing and Midwifery Council",
+        "name_norm": "nursing and midwifery council",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "02-year experience as RN after Post RN BSN (clinical includes inpatient and outpatient in",
+        "name_norm": "02-year experience as rn after post rn bsn clinical includes inpatient and outpatient in",
+        "programs": []
+      },
+      {
+        "name": "primary and tertiary care, as well as teaching and research) for admission in MSN degree",
+        "name_norm": "primary and tertiary care as well as teaching and research for admission in msn degree",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "IUB GRE/HAT Nursing with 50% marks before admission",
+        "name_norm": "iub gre/hat nursing with 50 marks before admission",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "Valid PNC License",
+        "name_norm": "valid pnc license",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "Category-II",
+        "name_norm": "category-ii",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "12-years schooling (Matric + FSc Pre Medical 1st Division)",
+        "name_norm": "12-years schooling matric fsc pre medical 1st division",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "04-year BSN Generic with 2.5 out of 4.0 CGPA recognized and registered with Pakistan",
+        "name_norm": "04-year bsn generic with 2 5 out of 4 0 cgpa recognized and registered with pakistan",
+        "programs": []
+      },
+      {
+        "name": "Nursing and Midwifery Council.",
+        "name_norm": "nursing and midwifery council",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "01-year Internship (Bedside care)",
+        "name_norm": "01-year internship bedside care",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "02-year experience as RN after BSN Generic (Clinical includes inpatient and outpatient in",
+        "name_norm": "02-year experience as rn after bsn generic clinical includes inpatient and outpatient in",
+        "programs": []
+      },
+      {
+        "name": "primary and tertiary care) (excluding 01-Year Internship) for admission in MSN.",
+        "name_norm": "primary and tertiary care excluding 01-year internship for admission in msn",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "IUB GAT Nursing with 50% marks before admission.",
+        "name_norm": "iub gat nursing with 50 marks before admission",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "Valid PNC License",
+        "name_norm": "valid pnc license",
+        "programs": []
+      },
+      {
+        "name": "",
+        "name_norm": "",
+        "programs": []
+      },
+      {
+        "name": "Minimum 1 Research Publication in a relevant ﬁeld and in an HEC-recognized Journal",
+        "name_norm": "minimum 1 research publication in a relevant eld and in an hec-recognized journal",
+        "programs": []
+      },
+      {
+        "name": "(Optional).",
+        "name_norm": "optional",
+        "programs": []
+      },
+      {
+        "name": "Last date to apply for admission",
+        "name_norm": "last date to apply for admission",
+        "programs": []
+      },
+      {
+        "name": "February 10, 2026",
+        "name_norm": "february 10 2026",
+        "programs": []
+      },
+      {
+        "name": "Director Advanced Studies and Research",
+        "name_norm": "director advanced studies and research",
+        "programs": []
+      },
+      {
+        "name": "The Islamia University of Bahawalpur",
+        "name_norm": "the islamia university of bahawalpur",
+        "programs": []
+      },
+      {
+        "name": "Email: pg.admission@iub.edu.pk",
+        "name_norm": "email pg admission iub edu pk",
+        "programs": []
+      },
+      {
+        "name": "For eligibility & other admission related queries",
+        "name_norm": "for eligibility and other admission related queries",
+        "programs": []
+      },
+      {
+        "name": "Phone #062-9255484",
+        "name_norm": "phone 062-9255484",
+        "programs": []
+      },
+      {
+        "name": "Email:- pg.admission@iub.edu.pk",
+        "name_norm": "email - pg admission iub edu pk",
+        "programs": []
+      },
+      {
+        "name": "For online admission portal queries",
+        "name_norm": "for online admission portal queries",
+        "programs": []
+      },
+      {
+        "name": "Phone # 062-9255858",
+        "name_norm": "phone 062-9255858",
+        "programs": []
+      },
+      {
+        "name": "Email:- admission@iub.edu.pk",
+        "name_norm": "email - admission iub edu pk",
+        "programs": []
+      },
+      {
+        "name": "IUB HELPLINE",
+        "name_norm": "iub helpline",
+        "programs": []
+      },
+      {
+        "name": "+92-62-9255580, +92-346-9255555, +92-347-9255555",
+        "name_norm": "92-62-9255580 92-346-9255555 92-347-9255555",
+        "programs": []
+      },
+      {
+        "name": "Eligibility Criteria",
+        "name_norm": "eligibility criteria",
+        "programs": [
+          "MPhil/MS/MSc(Hons)/MBA:"
+        ]
+      },
+      {
+        "name": "by NTS or IUB departmental test with at least 50% marks before admission.",
+        "name_norm": "by nts or iub departmental test with at least 50 marks before admission",
+        "programs": [
+          "Doctor of Philosophy:",
+          "MPhil/MS or equivalent/Eighteen years of education with a minimum CGPA 3.0/4.00 or 60% in case of annual system recognized by the Higher",
+          "PhD Admissions:",
+          "PhD Admissions at IUB remain open throughout the year. The candidates securing admission to any PhD program at IUB are directed to visit"
+        ]
+      },
+      {
+        "name": "slot to recruit a new scholar.",
+        "name_norm": "slot to recruit a new scholar",
+        "programs": []
+      }
+    ],
+    "source": "faculties with department.pdf",
+    "category": "faculty and departments"
+  }
+]

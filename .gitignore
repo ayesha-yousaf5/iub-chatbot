@@ -1,0 +1,25 @@
+# Python environments and caches
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Locally generated vector stores and downloaded models
+backend/chroma_db/
+backend/processed_data/
+backend/local_models/
+backend/ollama_model/
+
+# Local evaluation and build artifacts
+backendCopy/
+backend_extra/
+*.zip
+
+# Environment and local secret files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx

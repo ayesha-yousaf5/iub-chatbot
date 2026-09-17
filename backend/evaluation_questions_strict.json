@@ -1,0 +1,5276 @@
+[
+  {
+    "id": "about_university_overview",
+    "question": "What is The Islamia University of Bahawalpur?",
+    "expected_keywords": [
+      "Islamia University of Bahawalpur"
+    ],
+    "expected_category": "about university",
+    "expected_source": "",
+    "question_type": "university_overview",
+    "difficulty": "easy"
+  },
+  {
+    "id": "about_university_history",
+    "question": "Tell me the history of IUB.",
+    "expected_keywords": [
+      "Jamia Abbasia",
+      "1975"
+    ],
+    "expected_category": "about university",
+    "expected_source": "",
+    "question_type": "history",
+    "difficulty": "easy"
+  },
+  {
+    "id": "about_university_governance",
+    "question": "What is the governance structure of IUB?",
+    "expected_keywords": [
+      "governance"
+    ],
+    "expected_category": "about university",
+    "expected_source": "",
+    "question_type": "governance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "about_university_ranking",
+    "question": "What is the ranking of IUB?",
+    "expected_keywords": [
+      "ranking"
+    ],
+    "expected_category": "about university",
+    "expected_source": "",
+    "question_type": "ranking",
+    "difficulty": "medium"
+  },
+  {
+    "id": "campuses_list",
+    "question": "What campuses does IUB have?",
+    "expected_keywords": [
+      "Campus"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "",
+    "question_type": "campus_list",
+    "difficulty": "easy"
+  },
+  {
+    "id": "campuses_main_location",
+    "question": "Where is the main campus of IUB located?",
+    "expected_keywords": [
+      "Baghdad-ul-Jadeed",
+      "Hasilpur Road"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "",
+    "question_type": "campus_location",
+    "difficulty": "easy"
+  },
+  {
+    "id": "admission_bs_criteria",
+    "question": "What is the admission criteria for BS programs?",
+    "expected_keywords": [
+      "FA",
+      "FSc",
+      "Bachelor"
+    ],
+    "expected_category": "admission",
+    "expected_source": "",
+    "question_type": "admission_criteria",
+    "difficulty": "easy"
+  },
+  {
+    "id": "admission_apply",
+    "question": "How can I apply for admission at IUB?",
+    "expected_keywords": [
+      "apply",
+      "admission"
+    ],
+    "expected_category": "admission",
+    "expected_source": "",
+    "question_type": "how_to_apply",
+    "difficulty": "medium"
+  },
+  {
+    "id": "admission_merit",
+    "question": "What is the merit determination policy at IUB?",
+    "expected_keywords": [
+      "merit"
+    ],
+    "expected_category": "admission",
+    "expected_source": "",
+    "question_type": "merit_policy",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fees_bs_structure",
+    "question": "What is the fee structure for BS programs at IUB?",
+    "expected_keywords": [
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "",
+    "question_type": "fee_structure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fees_hostel_dues",
+    "question": "Are hostel dues included in the fee structure?",
+    "expected_keywords": [
+      "Hostel dues",
+      "not included"
+    ],
+    "expected_category": "fees",
+    "expected_source": "",
+    "question_type": "fee_policy",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fees_transport_charges",
+    "question": "Are transport charges included in the fee structure?",
+    "expected_keywords": [
+      "transport charges",
+      "not included"
+    ],
+    "expected_category": "fees",
+    "expected_source": "",
+    "question_type": "fee_policy",
+    "difficulty": "hard"
+  },
+  {
+    "id": "hostels_facilities",
+    "question": "What hostel facilities are available at IUB?",
+    "expected_keywords": [
+      "hostel",
+      "cafeteria",
+      "dining hall"
+    ],
+    "expected_category": "hostels",
+    "expected_source": "",
+    "question_type": "hostel_facilities",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hostels_count",
+    "question": "How many hostels are available at IUB?",
+    "expected_keywords": [
+      "hostels"
+    ],
+    "expected_category": "hostels",
+    "expected_source": "",
+    "question_type": "hostel_count",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarships_list",
+    "question": "What scholarships are available at IUB?",
+    "expected_keywords": [
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "",
+    "question_type": "scholarship_list",
+    "difficulty": "easy"
+  },
+  {
+    "id": "contact_general",
+    "question": "What is the contact information of IUB?",
+    "expected_keywords": [
+      "phone",
+      "email"
+    ],
+    "expected_category": "contact",
+    "expected_source": "",
+    "question_type": "contact",
+    "difficulty": "easy"
+  },
+  {
+    "id": "contact_admission",
+    "question": "How can I contact the IUB admission office?",
+    "expected_keywords": [
+      "admission",
+      "phone",
+      "email"
+    ],
+    "expected_category": "contact",
+    "expected_source": "",
+    "question_type": "admission_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "facilities_student",
+    "question": "What facilities are available for students at IUB?",
+    "expected_keywords": [
+      "students"
+    ],
+    "expected_category": "facilities",
+    "expected_source": "",
+    "question_type": "student_facilities",
+    "difficulty": "medium"
+  },
+  {
+    "id": "doit_director",
+    "question": "Who is the Director of IT at IUB?",
+    "expected_keywords": [
+      "Director IT"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "",
+    "question_type": "director_it",
+    "difficulty": "easy"
+  },
+  {
+    "id": "doit_overview",
+    "question": "Explain about DOIT.",
+    "expected_keywords": [
+      "Directorate of Information Technology"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_b_ed_1_year_admission",
+    "question": "What is the admission criteria for B.Ed 1 year?",
+    "expected_keywords": [
+      "B.Ed 1 year"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bba_technology_management_admission",
+    "question": "What is the admission criteria for BBA Technology Management?",
+    "expected_keywords": [
+      "BBA Technology Management"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_hons_animal_sciences_admission",
+    "question": "What is the admission criteria for BS (Hons) Animal Sciences?",
+    "expected_keywords": [
+      "BS (Hons) Animal Sciences"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_accounting_finance_admission",
+    "question": "What is the admission criteria for BS Accounting & Finance?",
+    "expected_keywords": [
+      "BS Accounting & Finance"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_applied_psychology_admission",
+    "question": "What is the admission criteria for BS Applied Psychology?",
+    "expected_keywords": [
+      "BS Applied Psychology"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_banking_and_finance_admission",
+    "question": "What is the admission criteria for BS Banking and Finance?",
+    "expected_keywords": [
+      "BS Banking and Finance"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_biochemistry_admission",
+    "question": "What is the admission criteria for BS Biochemistry?",
+    "expected_keywords": [
+      "BS Biochemistry"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_bioinformatics_admission",
+    "question": "What is the admission criteria for BS Bioinformatics?",
+    "expected_keywords": [
+      "BS Bioinformatics"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_biomedical_electronics_admission",
+    "question": "What is the admission criteria for BS Biomedical Electronics?",
+    "expected_keywords": [
+      "BS Biomedical Electronics"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_biomedical_engineering_technology_admission",
+    "question": "What is the admission criteria for BS Biomedical Engineering Technology?",
+    "expected_keywords": [
+      "BS Biomedical Engineering Technology"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_biotechnology_admission",
+    "question": "What is the admission criteria for BS Biotechnology?",
+    "expected_keywords": [
+      "BS Biotechnology"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_botany_admission",
+    "question": "What is the admission criteria for BS Botany?",
+    "expected_keywords": [
+      "BS Botany"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_chemistry_admission",
+    "question": "What is the admission criteria for BS Chemistry?",
+    "expected_keywords": [
+      "BS Chemistry"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_commerce_admission",
+    "question": "What is the admission criteria for BS Commerce?",
+    "expected_keywords": [
+      "BS Commerce"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_computer_science_admission",
+    "question": "What is the admission criteria for BS Computer Science?",
+    "expected_keywords": [
+      "BS Computer Science"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_cyber_security_and_digital_forensic_admission",
+    "question": "What is the admission criteria for BS Cyber Security and Digital Forensic?",
+    "expected_keywords": [
+      "BS Cyber Security and Digital Forensic"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_data_science_admission",
+    "question": "What is the admission criteria for BS Data Science?",
+    "expected_keywords": [
+      "BS Data Science"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_defence_admission",
+    "question": "What is the admission criteria for BS Defence?",
+    "expected_keywords": [
+      "BS Defence"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_development_studies_admission",
+    "question": "What is the admission criteria for BS Development Studies?",
+    "expected_keywords": [
+      "BS Development Studies"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_digital_marketing_and_a_admission",
+    "question": "What is the admission criteria for BS Digital Marketing and a?",
+    "expected_keywords": [
+      "BS Digital Marketing and a"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_digital_media_admission",
+    "question": "What is the admission criteria for BS Digital Media?",
+    "expected_keywords": [
+      "BS Digital Media"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_economics_admission",
+    "question": "What is the admission criteria for BS Economics?",
+    "expected_keywords": [
+      "BS Economics"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_economics_and_finance_admission",
+    "question": "What is the admission criteria for BS Economics and Finance?",
+    "expected_keywords": [
+      "BS Economics and Finance"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_education_admission",
+    "question": "What is the admission criteria for BS Education?",
+    "expected_keywords": [
+      "BS Education"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_educational_leadership_and_management_admission",
+    "question": "What is the admission criteria for BS Educational Leadership and Management?",
+    "expected_keywords": [
+      "BS Educational Leadership and Management"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_educational_planning_management_admission",
+    "question": "What is the admission criteria for BS Educational Planning & Management?",
+    "expected_keywords": [
+      "BS Educational Planning & Management"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_electrical_engineering_technology_admission",
+    "question": "What is the admission criteria for BS Electrical Engineering Technology?",
+    "expected_keywords": [
+      "BS Electrical Engineering Technology"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_electronics_admission",
+    "question": "What is the admission criteria for BS Electronics?",
+    "expected_keywords": [
+      "BS Electronics"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_elementary_education_admission",
+    "question": "What is the admission criteria for BS Elementary Education?",
+    "expected_keywords": [
+      "BS Elementary Education"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_english_language_linguistics_admission",
+    "question": "What is the admission criteria for BS English Language & Linguistics?",
+    "expected_keywords": [
+      "BS English Language & Linguistics"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_english_language_teaching_linguistics_admission",
+    "question": "What is the admission criteria for BS English Language Teaching & Linguistics?",
+    "expected_keywords": [
+      "BS English Language Teaching & Linguistics"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_entrepreneurship_innovation_admission",
+    "question": "What is the admission criteria for BS Entrepreneurship & Innovation?",
+    "expected_keywords": [
+      "BS Entrepreneurship & Innovation"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_environmental_sciences_on_the_admission",
+    "question": "What is the admission criteria for BS Environmental Sciences on the?",
+    "expected_keywords": [
+      "BS Environmental Sciences on the"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_forensic_science_admission",
+    "question": "What is the admission criteria for BS Forensic Science?",
+    "expected_keywords": [
+      "BS Forensic Science"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_forestry_admission",
+    "question": "What is the admission criteria for BS Forestry?",
+    "expected_keywords": [
+      "BS Forestry"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_gender_studies_admission",
+    "question": "What is the admission criteria for BS Gender Studies?",
+    "expected_keywords": [
+      "BS Gender Studies"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_geography_admission",
+    "question": "What is the admission criteria for BS Geography?",
+    "expected_keywords": [
+      "BS Geography"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_history_admission",
+    "question": "What is the admission criteria for BS History?",
+    "expected_keywords": [
+      "BS History"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_human_diet_nutrition_admission",
+    "question": "What is the admission criteria for BS Human Diet & Nutrition?",
+    "expected_keywords": [
+      "BS Human Diet & Nutrition"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_information_security_admission",
+    "question": "What is the admission criteria for BS Information Security?",
+    "expected_keywords": [
+      "BS Information Security"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_intelligent_systems_and_robotics_admission",
+    "question": "What is the admission criteria for BS Intelligent Systems and Robotics?",
+    "expected_keywords": [
+      "BS Intelligent Systems and Robotics"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_international_relations_admission",
+    "question": "What is the admission criteria for BS International Relations?",
+    "expected_keywords": [
+      "BS International Relations"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_internet_of_things_admission",
+    "question": "What is the admission criteria for BS Internet of Things?",
+    "expected_keywords": [
+      "BS Internet of Things"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_islamic_studies_admission",
+    "question": "What is the admission criteria for BS Islamic Studies?",
+    "expected_keywords": [
+      "BS Islamic Studies"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_leadership_management_admission",
+    "question": "What is the admission criteria for BS Leadership & Management?",
+    "expected_keywords": [
+      "BS Leadership & Management"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_library_information_science_admission",
+    "question": "What is the admission criteria for BS Library & Information Science?",
+    "expected_keywords": [
+      "BS Library & Information Science"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_mathematics_admission",
+    "question": "What is the admission criteria for BS Mathematics?",
+    "expected_keywords": [
+      "BS Mathematics"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_media_studies_admission",
+    "question": "What is the admission criteria for BS Media Studies?",
+    "expected_keywords": [
+      "BS Media Studies"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_medical_laboratory_technology_admission",
+    "question": "What is the admission criteria for BS Medical Laboratory Technology?",
+    "expected_keywords": [
+      "BS Medical Laboratory Technology"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_networks_and_telecommunication_admission",
+    "question": "What is the admission criteria for BS Networks and Telecommunication?",
+    "expected_keywords": [
+      "BS Networks and Telecommunication"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_pakistan_studies_admission",
+    "question": "What is the admission criteria for BS Pakistan Studies?",
+    "expected_keywords": [
+      "BS Pakistan Studies"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_physical_education_admission",
+    "question": "What is the admission criteria for BS Physical Education?",
+    "expected_keywords": [
+      "BS Physical Education"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_physics_admission",
+    "question": "What is the admission criteria for BS Physics?",
+    "expected_keywords": [
+      "BS Physics"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_political_science_admission",
+    "question": "What is the admission criteria for BS Political Science?",
+    "expected_keywords": [
+      "BS Political Science"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_politics_parliamentary_studies_admission",
+    "question": "What is the admission criteria for BS Politics & Parliamentary Studies?",
+    "expected_keywords": [
+      "BS Politics & Parliamentary Studies"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_poultry_science_admission",
+    "question": "What is the admission criteria for BS Poultry Science?",
+    "expected_keywords": [
+      "BS Poultry Science"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_public_administration_admission",
+    "question": "What is the admission criteria for BS Public Administration?",
+    "expected_keywords": [
+      "BS Public Administration"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_public_health_admission",
+    "question": "What is the admission criteria for BS Public Health?",
+    "expected_keywords": [
+      "BS Public Health"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_public_policy_governance_admission",
+    "question": "What is the admission criteria for BS Public Policy & Governance?",
+    "expected_keywords": [
+      "BS Public Policy & Governance"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_renewable_sustainable_energy_systems_admission",
+    "question": "What is the admission criteria for BS Renewable & Sustainable Energy Systems?",
+    "expected_keywords": [
+      "BS Renewable & Sustainable Energy Systems"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_science_admission",
+    "question": "What is the admission criteria for BS Science?",
+    "expected_keywords": [
+      "BS Science"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_secondary_education_admission",
+    "question": "What is the admission criteria for BS Secondary Education?",
+    "expected_keywords": [
+      "BS Secondary Education"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_seed_science_and_technology_to_students_admission",
+    "question": "What is the admission criteria for BS Seed Science and Technology to students?",
+    "expected_keywords": [
+      "BS Seed Science and Technology to students"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_sociology_admission",
+    "question": "What is the admission criteria for BS Sociology?",
+    "expected_keywords": [
+      "BS Sociology"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_software_engineering_admission",
+    "question": "What is the admission criteria for BS Software Engineering?",
+    "expected_keywords": [
+      "BS Software Engineering"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_special_education_admission",
+    "question": "What is the admission criteria for BS Special Education?",
+    "expected_keywords": [
+      "BS Special Education"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_statistics_admission",
+    "question": "What is the admission criteria for BS Statistics?",
+    "expected_keywords": [
+      "BS Statistics"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_translation_studies_admission",
+    "question": "What is the admission criteria for BS Translation Studies?",
+    "expected_keywords": [
+      "BS Translation Studies"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_urdu_admission",
+    "question": "What is the admission criteria for BS Urdu?",
+    "expected_keywords": [
+      "BS Urdu"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_zoology_admission",
+    "question": "What is the admission criteria for BS Zoology?",
+    "expected_keywords": [
+      "BS Zoology"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_ed_admission",
+    "question": "What is the admission criteria for BS.Ed?",
+    "expected_keywords": [
+      "BS.Ed"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_ed_program_admission",
+    "question": "What is the admission criteria for BS.Ed program?",
+    "expected_keywords": [
+      "BS.Ed program"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bsc_botany_zoology_chemistry_dh_admission",
+    "question": "What is the admission criteria for BSc (Botany, Zoology & Chemistry); DH?",
+    "expected_keywords": [
+      "BSc (Botany, Zoology & Chemistry); DH"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bsc_hons_agriculture_admission",
+    "question": "What is the admission criteria for BSc (Hons) Agriculture?",
+    "expected_keywords": [
+      "BSc (Hons) Agriculture"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bsc_hons_food_science_technology_admission",
+    "question": "What is the admission criteria for BSc (Hons) Food Science & Technology?",
+    "expected_keywords": [
+      "BSc (Hons) Food Science & Technology"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bsc_civil_engineering_admission",
+    "question": "What is the admission criteria for BSc Civil Engineering?",
+    "expected_keywords": [
+      "BSc Civil Engineering"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bsc_electrical_power_engineering_for_which_admission",
+    "question": "What is the admission criteria for BSc Electrical Power Engineering, for which?",
+    "expected_keywords": [
+      "BSc Electrical Power Engineering, for which"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bsc_electronic_engineering_admission",
+    "question": "What is the admission criteria for BSc Electronic Engineering?",
+    "expected_keywords": [
+      "BSc Electronic Engineering"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_diploma_in_agricultural_sciences_das_of_3_years_admission",
+    "question": "What is the admission criteria for Diploma in Agricultural Sciences (DAS) of 3 years?",
+    "expected_keywords": [
+      "Diploma in Agricultural Sciences (DAS) of 3 years"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_diploma_in_digital_marketing_admission",
+    "question": "What is the admission criteria for Diploma in Digital Marketing?",
+    "expected_keywords": [
+      "Diploma in Digital Marketing"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_diploma_in_entrepreneurship_innovation_admission",
+    "question": "What is the admission criteria for Diploma in Entrepreneurship & Innovation?",
+    "expected_keywords": [
+      "Diploma in Entrepreneurship & Innovation"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_diploma_of_associate_engineer_dae_in_civil_technology_admission",
+    "question": "What is the admission criteria for Diploma of Associate Engineer (DAE) in Civil Technology?",
+    "expected_keywords": [
+      "Diploma of Associate Engineer (DAE) in Civil Technology"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_diplomatic_studies_admission",
+    "question": "What is the admission criteria for Diplomatic Studies?",
+    "expected_keywords": [
+      "Diplomatic Studies"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_m_ed_programs_is_based_on_the_admission",
+    "question": "What is the admission criteria for M.Ed programs is based on the?",
+    "expected_keywords": [
+      "M.Ed programs is based on the"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_msc_or_admission",
+    "question": "What is the admission criteria for MSc or?",
+    "expected_keywords": [
+      "MSc or"
+    ],
+    "expected_category": "admission",
+    "expected_source": "Admissions_Criteria_Paragraphsupdated.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bsc_without_compulsory_english_40_marks_admission",
+    "question": "What is the admission criteria for BSc without compulsory English 40 marks?",
+    "expected_keywords": [
+      "BSc without compulsory English 40 marks"
+    ],
+    "expected_category": "admission",
+    "expected_source": "merit determination.docx",
+    "question_type": "program_admission",
+    "difficulty": "medium"
+  },
+  {
+    "id": "campus_abbasia_campus_overview",
+    "question": "Tell me about Abbasia Campus.",
+    "expected_keywords": [
+      "Abbasia Campus"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "Abbasia Campus.docx",
+    "question_type": "campus_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "campus_abbasia_campus_facilities",
+    "question": "What facilities are available at Abbasia Campus?",
+    "expected_keywords": [
+      "Abbasia Campus"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "Abbasia Campus.docx",
+    "question_type": "campus_facilities",
+    "difficulty": "medium"
+  },
+  {
+    "id": "campus_baghdad_ul_jadeed_campus_overview",
+    "question": "Tell me about Baghdad-ul-Jadeed Campus.",
+    "expected_keywords": [
+      "Baghdad-ul-Jadeed Campus"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "Baghdad-ul-Jadeed Campus.docx",
+    "question_type": "campus_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "campus_baghdad_ul_jadeed_campus_facilities",
+    "question": "What facilities are available at Baghdad-ul-Jadeed Campus?",
+    "expected_keywords": [
+      "Baghdad-ul-Jadeed Campus"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "Baghdad-ul-Jadeed Campus.docx",
+    "question_type": "campus_facilities",
+    "difficulty": "medium"
+  },
+  {
+    "id": "campus_bahawalnagar_sub_campus_overview",
+    "question": "Tell me about Bahawalnagar Sub-Campus.",
+    "expected_keywords": [
+      "Bahawalnagar Sub-Campus"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "Bahawalnagar Sub-Campus.docx",
+    "question_type": "campus_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "campus_bahawalnagar_sub_campus_facilities",
+    "question": "What facilities are available at Bahawalnagar Sub-Campus?",
+    "expected_keywords": [
+      "Bahawalnagar Sub-Campus"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "Bahawalnagar Sub-Campus.docx",
+    "question_type": "campus_facilities",
+    "difficulty": "medium"
+  },
+  {
+    "id": "campus_khawaja_fareed_campus_overview",
+    "question": "Tell me about Khawaja Fareed Campus.",
+    "expected_keywords": [
+      "Khawaja Fareed Campus"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "Khawaja Fareed Campus.docx",
+    "question_type": "campus_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "campus_khawaja_fareed_campus_facilities",
+    "question": "What facilities are available at Khawaja Fareed Campus?",
+    "expected_keywords": [
+      "Khawaja Fareed Campus"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "Khawaja Fareed Campus.docx",
+    "question_type": "campus_facilities",
+    "difficulty": "medium"
+  },
+  {
+    "id": "campus_liaquatpur_sub_campus_overview",
+    "question": "Tell me about Liaquatpur Sub-Campus.",
+    "expected_keywords": [
+      "Liaquatpur Sub-Campus"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "Liaquatpur Sub-Campus.docx",
+    "question_type": "campus_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "campus_liaquatpur_sub_campus_facilities",
+    "question": "What facilities are available at Liaquatpur Sub-Campus?",
+    "expected_keywords": [
+      "Liaquatpur Sub-Campus"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "Liaquatpur Sub-Campus.docx",
+    "question_type": "campus_facilities",
+    "difficulty": "medium"
+  },
+  {
+    "id": "campus_rahim_yar_khan_sub_campus_overview",
+    "question": "Tell me about Rahim Yar Khan Sub-Campus.",
+    "expected_keywords": [
+      "Rahim Yar Khan Sub-Campus"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "Rahim Yar Khan Sub-Campus.docx",
+    "question_type": "campus_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "campus_rahim_yar_khan_sub_campus_facilities",
+    "question": "What facilities are available at Rahim Yar Khan Sub-Campus?",
+    "expected_keywords": [
+      "Rahim Yar Khan Sub-Campus"
+    ],
+    "expected_category": "campuses",
+    "expected_source": "Rahim Yar Khan Sub-Campus.docx",
+    "question_type": "campus_facilities",
+    "difficulty": "medium"
+  },
+  {
+    "id": "facility_iub_societies_overview",
+    "question": "Tell me about IUB Societies facility at IUB.",
+    "expected_keywords": [
+      "IUB"
+    ],
+    "expected_category": "facilities",
+    "expected_source": "IUB Societies.docx",
+    "question_type": "facility_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "facility_research_overview",
+    "question": "Tell me about research facility at IUB.",
+    "expected_keywords": [
+      "research"
+    ],
+    "expected_category": "facilities",
+    "expected_source": "research.docx",
+    "question_type": "facility_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "facility_special_students_facilitation_center_overview",
+    "question": "Tell me about Special students Facilitation Center facility at IUB.",
+    "expected_keywords": [
+      "Special"
+    ],
+    "expected_category": "facilities",
+    "expected_source": "Special students Facilitation Center.docx",
+    "question_type": "facility_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "facility_sports_activities_overview",
+    "question": "Tell me about sports activities facility at IUB.",
+    "expected_keywords": [
+      "sports"
+    ],
+    "expected_category": "facilities",
+    "expected_source": "sports activities.docx",
+    "question_type": "facility_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "facility_transport_overview",
+    "question": "Tell me about transport facility at IUB.",
+    "expected_keywords": [
+      "transport"
+    ],
+    "expected_category": "facilities",
+    "expected_source": "transport.txt",
+    "question_type": "facility_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "faculty_faculty_of_agriculture_environment_iub_overview",
+    "question": "Tell me about Faculty of Agriculture & Environment, IUB.",
+    "expected_keywords": [
+      "Faculty of Agriculture & Environment, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_agriculture_environment_iub_departments",
+    "question": "What departments are under Faculty of Agriculture & Environment, IUB?",
+    "expected_keywords": [
+      "Faculty of Agriculture & Environment, IUB",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_agriculture_and_environment_overview",
+    "question": "Tell me about Faculty of Agriculture and Environment.",
+    "expected_keywords": [
+      "Faculty of Agriculture and Environment"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_agriculture_and_environment_departments",
+    "question": "What departments are under Faculty of Agriculture and Environment?",
+    "expected_keywords": [
+      "Faculty of Agriculture and Environment",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_agriculture_and_environment_iub_overview",
+    "question": "Tell me about Faculty of Agriculture and Environment, IUB.",
+    "expected_keywords": [
+      "Faculty of Agriculture and Environment, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_agriculture_and_environment_iub_departments",
+    "question": "What departments are under Faculty of Agriculture and Environment, IUB?",
+    "expected_keywords": [
+      "Faculty of Agriculture and Environment, IUB",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_education_overview",
+    "question": "Tell me about Faculty of Education.",
+    "expected_keywords": [
+      "Faculty of Education"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_education_departments",
+    "question": "What departments are under Faculty of Education?",
+    "expected_keywords": [
+      "Faculty of Education",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_education_b_overview",
+    "question": "Tell me about Faculty of Education, B.",
+    "expected_keywords": [
+      "Faculty of Education, B"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_education_b_departments",
+    "question": "What departments are under Faculty of Education, B?",
+    "expected_keywords": [
+      "Faculty of Education, B",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_engineering_overview",
+    "question": "Tell me about Faculty of Engineering.",
+    "expected_keywords": [
+      "Faculty of Engineering"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_engineering_departments",
+    "question": "What departments are under Faculty of Engineering?",
+    "expected_keywords": [
+      "Faculty of Engineering",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_islamic_and_arabic_learning_overview",
+    "question": "Tell me about Faculty of Islamic and Arabic Learning.",
+    "expected_keywords": [
+      "Faculty of Islamic and Arabic Learning"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_islamic_and_arabic_learning_departments",
+    "question": "What departments are under Faculty of Islamic and Arabic Learning?",
+    "expected_keywords": [
+      "Faculty of Islamic and Arabic Learning",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_law_overview",
+    "question": "Tell me about Faculty of Law.",
+    "expected_keywords": [
+      "Faculty of Law"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_law_departments",
+    "question": "What departments are under Faculty of Law?",
+    "expected_keywords": [
+      "Faculty of Law",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_medicine_and_allied_health_sciences_overview",
+    "question": "Tell me about Faculty of Medicine and Allied Health Sciences.",
+    "expected_keywords": [
+      "Faculty of Medicine and Allied Health Sciences"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_medicine_and_allied_health_sciences_departments",
+    "question": "What departments are under Faculty of Medicine and Allied Health Sciences?",
+    "expected_keywords": [
+      "Faculty of Medicine and Allied Health Sciences",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_online_distance_education_iub_overview",
+    "question": "Tell me about Faculty of Online & Distance Education IUB.",
+    "expected_keywords": [
+      "Faculty of Online & Distance Education IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_online_distance_education_iub_departments",
+    "question": "What departments are under Faculty of Online & Distance Education IUB?",
+    "expected_keywords": [
+      "Faculty of Online & Distance Education IUB",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_online_and_distance_education_overview",
+    "question": "Tell me about Faculty of Online and Distance Education.",
+    "expected_keywords": [
+      "Faculty of Online and Distance Education"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_online_and_distance_education_departments",
+    "question": "What departments are under Faculty of Online and Distance Education?",
+    "expected_keywords": [
+      "Faculty of Online and Distance Education",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_online_and_distance_education_details_as_listed_above_overview",
+    "question": "Tell me about Faculty of Online and Distance Education (details as listed above.",
+    "expected_keywords": [
+      "Faculty of Online and Distance Education (details as listed above"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_online_and_distance_education_details_as_listed_above_departments",
+    "question": "What departments are under Faculty of Online and Distance Education (details as listed above?",
+    "expected_keywords": [
+      "Faculty of Online and Distance Education (details as listed above",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_botany_baghdad_ul_jadeed_campus_iub_overview",
+    "question": "Tell me about Department of Botany, Baghdad-ul-Jadeed Campus, IUB.",
+    "expected_keywords": [
+      "Department of Botany, Baghdad-ul-Jadeed Campus, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_botany_baghdad_ul_jadeed_campus_iub_programs",
+    "question": "What programs are offered in Department of Botany, Baghdad-ul-Jadeed Campus, IUB?",
+    "expected_keywords": [
+      "Department of Botany, Baghdad-ul-Jadeed Campus, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_criminology_overview",
+    "question": "Tell me about Department of Criminology.",
+    "expected_keywords": [
+      "Department of Criminology"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_criminology_programs",
+    "question": "What programs are offered in Department of Criminology?",
+    "expected_keywords": [
+      "Department of Criminology"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_early_childhood_education_overview",
+    "question": "Tell me about Department of Early Childhood Education.",
+    "expected_keywords": [
+      "Department of Early Childhood Education"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_early_childhood_education_programs",
+    "question": "What programs are offered in Department of Early Childhood Education?",
+    "expected_keywords": [
+      "Department of Early Childhood Education"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_education_baghdad_ul_jadid_campus_iub_overview",
+    "question": "Tell me about Department of Education Baghdad Ul Jadid Campus IUB.",
+    "expected_keywords": [
+      "Department of Education Baghdad Ul Jadid Campus IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_education_baghdad_ul_jadid_campus_iub_programs",
+    "question": "What programs are offered in Department of Education Baghdad Ul Jadid Campus IUB?",
+    "expected_keywords": [
+      "Department of Education Baghdad Ul Jadid Campus IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_education_iub_bahawalpur_overview",
+    "question": "Tell me about Department of Education, IUB Bahawalpur.",
+    "expected_keywords": [
+      "Department of Education, IUB Bahawalpur"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_education_iub_bahawalpur_programs",
+    "question": "What programs are offered in Department of Education, IUB Bahawalpur?",
+    "expected_keywords": [
+      "Department of Education, IUB Bahawalpur"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_educational_leadership_and_management_overview",
+    "question": "Tell me about Department of Educational Leadership and Management.",
+    "expected_keywords": [
+      "Department of Educational Leadership and Management"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_educational_leadership_and_management_programs",
+    "question": "What programs are offered in Department of Educational Leadership and Management?",
+    "expected_keywords": [
+      "Department of Educational Leadership and Management"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_educational_leadership_and_management_faculty_of_education_b_overview",
+    "question": "Tell me about Department of Educational Leadership and Management, Faculty of Education, B.",
+    "expected_keywords": [
+      "Department of Educational Leadership and Management, Faculty of Education, B"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_educational_leadership_and_management_faculty_of_education_b_programs",
+    "question": "What programs are offered in Department of Educational Leadership and Management, Faculty of Education, B?",
+    "expected_keywords": [
+      "Department of Educational Leadership and Management, Faculty of Education, B"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_educational_research_and_evaluation_overview",
+    "question": "Tell me about Department of Educational Research and Evaluation.",
+    "expected_keywords": [
+      "Department of Educational Research and Evaluation"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_educational_research_and_evaluation_programs",
+    "question": "What programs are offered in Department of Educational Research and Evaluation?",
+    "expected_keywords": [
+      "Department of Educational Research and Evaluation"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_educational_training_overview",
+    "question": "Tell me about Department of Educational Training.",
+    "expected_keywords": [
+      "Department of Educational Training"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_educational_training_programs",
+    "question": "What programs are offered in Department of Educational Training?",
+    "expected_keywords": [
+      "Department of Educational Training"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_educational_training_iub_overview",
+    "question": "Tell me about Department of Educational Training IUB.",
+    "expected_keywords": [
+      "Department of Educational Training IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_educational_training_iub_programs",
+    "question": "What programs are offered in Department of Educational Training IUB?",
+    "expected_keywords": [
+      "Department of Educational Training IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_forestry_range_and_wildlife_management_overview",
+    "question": "Tell me about Department of Forestry, Range and Wildlife Management.",
+    "expected_keywords": [
+      "Department of Forestry, Range and Wildlife Management"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_forestry_range_and_wildlife_management_programs",
+    "question": "What programs are offered in Department of Forestry, Range and Wildlife Management?",
+    "expected_keywords": [
+      "Department of Forestry, Range and Wildlife Management"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_islamic_studies_the_islamia_university_of_bahawalpur_overview",
+    "question": "Tell me about Department of Islamic Studies, The Islamia University of Bahawalpur.",
+    "expected_keywords": [
+      "Department of Islamic Studies, The Islamia University of Bahawalpur"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_islamic_studies_the_islamia_university_of_bahawalpur_programs",
+    "question": "What programs are offered in Department of Islamic Studies, The Islamia University of Bahawalpur?",
+    "expected_keywords": [
+      "Department of Islamic Studies, The Islamia University of Bahawalpur"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_language_education_overview",
+    "question": "Tell me about Department of Language Education.",
+    "expected_keywords": [
+      "Department of Language Education"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_language_education_programs",
+    "question": "What programs are offered in Department of Language Education?",
+    "expected_keywords": [
+      "Department of Language Education"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_overview",
+    "question": "Tell me about Department of Law.",
+    "expected_keywords": [
+      "Department of Law"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_programs",
+    "question": "What programs are offered in Department of Law?",
+    "expected_keywords": [
+      "Department of Law"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_abbasia_campus_iub_overview",
+    "question": "Tell me about Department of Law Abbasia Campus IUB.",
+    "expected_keywords": [
+      "Department of Law Abbasia Campus IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_abbasia_campus_iub_programs",
+    "question": "What programs are offered in Department of Law Abbasia Campus IUB?",
+    "expected_keywords": [
+      "Department of Law Abbasia Campus IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_faculty_overview",
+    "question": "Tell me about Department of Law Faculty.",
+    "expected_keywords": [
+      "Department of Law Faculty"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_faculty_programs",
+    "question": "What programs are offered in Department of Law Faculty?",
+    "expected_keywords": [
+      "Department of Law Faculty"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_above_overview",
+    "question": "Tell me about Department of Law above.",
+    "expected_keywords": [
+      "Department of Law above"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_above_programs",
+    "question": "What programs are offered in Department of Law above?",
+    "expected_keywords": [
+      "Department of Law above"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_abbasia_campus_iub_overview",
+    "question": "Tell me about Department of Law, Abbasia Campus, IUB.",
+    "expected_keywords": [
+      "Department of Law, Abbasia Campus, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_abbasia_campus_iub_programs",
+    "question": "What programs are offered in Department of Law, Abbasia Campus, IUB?",
+    "expected_keywords": [
+      "Department of Law, Abbasia Campus, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_abbasia_campus_iub_bahawalpur_overview",
+    "question": "Tell me about Department of Law, Abbasia Campus, IUB Bahawalpur.",
+    "expected_keywords": [
+      "Department of Law, Abbasia Campus, IUB Bahawalpur"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_abbasia_campus_iub_bahawalpur_programs",
+    "question": "What programs are offered in Department of Law, Abbasia Campus, IUB Bahawalpur?",
+    "expected_keywords": [
+      "Department of Law, Abbasia Campus, IUB Bahawalpur"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_iub_overview",
+    "question": "Tell me about Department of Law, IUB.",
+    "expected_keywords": [
+      "Department of Law, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_law_iub_programs",
+    "question": "What programs are offered in Department of Law, IUB?",
+    "expected_keywords": [
+      "Department of Law, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_management_and_hr_ibmas_overview",
+    "question": "Tell me about Department of Management and HR, IBMAS.",
+    "expected_keywords": [
+      "Department of Management and HR, IBMAS"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_management_and_hr_ibmas_programs",
+    "question": "What programs are offered in Department of Management and HR, IBMAS?",
+    "expected_keywords": [
+      "Department of Management and HR, IBMAS"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_mathematics_overview",
+    "question": "Tell me about Department of Mathematics.",
+    "expected_keywords": [
+      "Department of Mathematics"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_mathematics_programs",
+    "question": "What programs are offered in Department of Mathematics?",
+    "expected_keywords": [
+      "Department of Mathematics"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_pharmaceutics_overview",
+    "question": "Tell me about Department of Pharmaceutics.",
+    "expected_keywords": [
+      "Department of Pharmaceutics"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_pharmaceutics_programs",
+    "question": "What programs are offered in Department of Pharmaceutics?",
+    "expected_keywords": [
+      "Department of Pharmaceutics"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_pharmacology_overview",
+    "question": "Tell me about Department of Pharmacology.",
+    "expected_keywords": [
+      "Department of Pharmacology"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_pharmacology_programs",
+    "question": "What programs are offered in Department of Pharmacology?",
+    "expected_keywords": [
+      "Department of Pharmacology"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_physical_education_and_sports_sciences_overview",
+    "question": "Tell me about Department of Physical Education and Sports Sciences.",
+    "expected_keywords": [
+      "Department of Physical Education and Sports Sciences"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_physical_education_and_sports_sciences_programs",
+    "question": "What programs are offered in Department of Physical Education and Sports Sciences?",
+    "expected_keywords": [
+      "Department of Physical Education and Sports Sciences"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_physical_therapy_overview",
+    "question": "Tell me about Department of Physical Therapy.",
+    "expected_keywords": [
+      "Department of Physical Therapy"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_physical_therapy_programs",
+    "question": "What programs are offered in Department of Physical Therapy?",
+    "expected_keywords": [
+      "Department of Physical Therapy"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_plant_breeding_genetics_uca_es_iub_overview",
+    "question": "Tell me about Department of Plant Breeding & Genetics, UCA & ES, IUB.",
+    "expected_keywords": [
+      "Department of Plant Breeding & Genetics, UCA & ES, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_plant_breeding_genetics_uca_es_iub_programs",
+    "question": "What programs are offered in Department of Plant Breeding & Genetics, UCA & ES, IUB?",
+    "expected_keywords": [
+      "Department of Plant Breeding & Genetics, UCA & ES, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_plant_breeding_and_genetics_at_iub_overview",
+    "question": "Tell me about Department of Plant Breeding and Genetics at IUB.",
+    "expected_keywords": [
+      "Department of Plant Breeding and Genetics at IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_plant_breeding_and_genetics_at_iub_programs",
+    "question": "What programs are offered in Department of Plant Breeding and Genetics at IUB?",
+    "expected_keywords": [
+      "Department of Plant Breeding and Genetics at IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_plant_pathology_faculty_of_agriculture_and_environment_iub_overview",
+    "question": "Tell me about Department of Plant Pathology, Faculty of Agriculture and Environment, IUB.",
+    "expected_keywords": [
+      "Department of Plant Pathology, Faculty of Agriculture and Environment, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_plant_pathology_faculty_of_agriculture_and_environment_iub_programs",
+    "question": "What programs are offered in Department of Plant Pathology, Faculty of Agriculture and Environment, IUB?",
+    "expected_keywords": [
+      "Department of Plant Pathology, Faculty of Agriculture and Environment, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_overview",
+    "question": "Tell me about Department of QEC.",
+    "expected_keywords": [
+      "Department of QEC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_programs",
+    "question": "What programs are offered in Department of QEC?",
+    "expected_keywords": [
+      "Department of QEC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_quality_enhancement_cell_overview",
+    "question": "Tell me about Department of QEC (Quality Enhancement Cell.",
+    "expected_keywords": [
+      "Department of QEC (Quality Enhancement Cell"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_quality_enhancement_cell_programs",
+    "question": "What programs are offered in Department of QEC (Quality Enhancement Cell?",
+    "expected_keywords": [
+      "Department of QEC (Quality Enhancement Cell"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_as_professor_and_chairman_overview",
+    "question": "Tell me about Department of QEC as Professor and Chairman.",
+    "expected_keywords": [
+      "Department of QEC as Professor and Chairman"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_as_professor_and_chairman_programs",
+    "question": "What programs are offered in Department of QEC as Professor and Chairman?",
+    "expected_keywords": [
+      "Department of QEC as Professor and Chairman"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_abdul_rauf_hammad_works_as_assistant_overview",
+    "question": "Tell me about Department of QEC, Abdul Rauf Hammad works as Assistant.",
+    "expected_keywords": [
+      "Department of QEC, Abdul Rauf Hammad works as Assistant"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_abdul_rauf_hammad_works_as_assistant_programs",
+    "question": "What programs are offered in Department of QEC, Abdul Rauf Hammad works as Assistant?",
+    "expected_keywords": [
+      "Department of QEC, Abdul Rauf Hammad works as Assistant"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_dr_overview",
+    "question": "Tell me about Department of QEC, Dr.",
+    "expected_keywords": [
+      "Department of QEC, Dr"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_dr_programs",
+    "question": "What programs are offered in Department of QEC, Dr?",
+    "expected_keywords": [
+      "Department of QEC, Dr"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_engr_overview",
+    "question": "Tell me about Department of QEC, Engr.",
+    "expected_keywords": [
+      "Department of QEC, Engr"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_engr_programs",
+    "question": "What programs are offered in Department of QEC, Engr?",
+    "expected_keywords": [
+      "Department of QEC, Engr"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_ms_overview",
+    "question": "Tell me about Department of QEC, Ms.",
+    "expected_keywords": [
+      "Department of QEC, Ms"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_ms_programs",
+    "question": "What programs are offered in Department of QEC, Ms?",
+    "expected_keywords": [
+      "Department of QEC, Ms"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_muhammad_afzal_works_in_the_department_of_qec_overview",
+    "question": "Tell me about Department of QEC, Muhammad Afzal works in the Department of QEC.",
+    "expected_keywords": [
+      "Department of QEC, Muhammad Afzal works in the Department of QEC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_muhammad_afzal_works_in_the_department_of_qec_programs",
+    "question": "What programs are offered in Department of QEC, Muhammad Afzal works in the Department of QEC?",
+    "expected_keywords": [
+      "Department of QEC, Muhammad Afzal works in the Department of QEC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_muhammad_amir_works_in_the_department_of_qec_overview",
+    "question": "Tell me about Department of QEC, Muhammad Amir works in the Department of QEC.",
+    "expected_keywords": [
+      "Department of QEC, Muhammad Amir works in the Department of QEC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_muhammad_amir_works_in_the_department_of_qec_programs",
+    "question": "What programs are offered in Department of QEC, Muhammad Amir works in the Department of QEC?",
+    "expected_keywords": [
+      "Department of QEC, Muhammad Amir works in the Department of QEC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_muhammad_farhan_works_in_the_department_of_qec_overview",
+    "question": "Tell me about Department of QEC, Muhammad Farhan works in the Department of QEC.",
+    "expected_keywords": [
+      "Department of QEC, Muhammad Farhan works in the Department of QEC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_muhammad_farhan_works_in_the_department_of_qec_programs",
+    "question": "What programs are offered in Department of QEC, Muhammad Farhan works in the Department of QEC?",
+    "expected_keywords": [
+      "Department of QEC, Muhammad Farhan works in the Department of QEC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_prof_overview",
+    "question": "Tell me about Department of QEC, Prof.",
+    "expected_keywords": [
+      "Department of QEC, Prof"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_prof_programs",
+    "question": "What programs are offered in Department of QEC, Prof?",
+    "expected_keywords": [
+      "Department of QEC, Prof"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_shama_firdous_works_in_the_department_of_qec_overview",
+    "question": "Tell me about Department of QEC, Shama Firdous works in the Department of QEC.",
+    "expected_keywords": [
+      "Department of QEC, Shama Firdous works in the Department of QEC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_shama_firdous_works_in_the_department_of_qec_programs",
+    "question": "What programs are offered in Department of QEC, Shama Firdous works in the Department of QEC?",
+    "expected_keywords": [
+      "Department of QEC, Shama Firdous works in the Department of QEC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_zohra_jabeen_works_in_the_department_of_qec_overview",
+    "question": "Tell me about Department of QEC, Zohra Jabeen works in the Department of QEC.",
+    "expected_keywords": [
+      "Department of QEC, Zohra Jabeen works in the Department of QEC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_qec_zohra_jabeen_works_in_the_department_of_qec_programs",
+    "question": "What programs are offered in Department of QEC, Zohra Jabeen works in the Department of QEC?",
+    "expected_keywords": [
+      "Department of QEC, Zohra Jabeen works in the Department of QEC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_shari_overview",
+    "question": "Tell me about Department of Shari.",
+    "expected_keywords": [
+      "Department of Shari"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_shari_programs",
+    "question": "What programs are offered in Department of Shari?",
+    "expected_keywords": [
+      "Department of Shari"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_social_work_iub_overview",
+    "question": "Tell me about Department of Social Work, IUB.",
+    "expected_keywords": [
+      "Department of Social Work, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_social_work_iub_programs",
+    "question": "What programs are offered in Department of Social Work, IUB?",
+    "expected_keywords": [
+      "Department of Social Work, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_special_education_overview",
+    "question": "Tell me about Department of Special Education.",
+    "expected_keywords": [
+      "Department of Special Education"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_special_education_programs",
+    "question": "What programs are offered in Department of Special Education?",
+    "expected_keywords": [
+      "Department of Special Education"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_student_affairs_dsa_overview",
+    "question": "Tell me about Department of Student Affairs (DSA.",
+    "expected_keywords": [
+      "Department of Student Affairs (DSA"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "department_department_of_student_affairs_dsa_programs",
+    "question": "What programs are offered in Department of Student Affairs (DSA?",
+    "expected_keywords": [
+      "Department of Student Affairs (DSA"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "department_programs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "directorate_directorate_of_academics_overview",
+    "question": "What is Directorate of Academics?",
+    "expected_keywords": [
+      "Directorate of Academics"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_academics_contact",
+    "question": "What is the contact information of Directorate of Academics?",
+    "expected_keywords": [
+      "Directorate of Academics"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_academics_staff_members_overview",
+    "question": "What is Directorate of Academics Staff Members?",
+    "expected_keywords": [
+      "Directorate of Academics Staff Members"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_academics_staff_members_contact",
+    "question": "What is the contact information of Directorate of Academics Staff Members?",
+    "expected_keywords": [
+      "Directorate of Academics Staff Members"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_academics_are_overview",
+    "question": "What is Directorate of Academics are?",
+    "expected_keywords": [
+      "Directorate of Academics are"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_academics_are_contact",
+    "question": "What is the contact information of Directorate of Academics are?",
+    "expected_keywords": [
+      "Directorate of Academics are"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_advanced_studies_research_board_iub_overview",
+    "question": "What is Directorate of Advanced Studies & Research Board, IUB?",
+    "expected_keywords": [
+      "Directorate of Advanced Studies & Research Board, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_advanced_studies_research_board_iub_contact",
+    "question": "What is the contact information of Directorate of Advanced Studies & Research Board, IUB?",
+    "expected_keywords": [
+      "Directorate of Advanced Studies & Research Board, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_affiliation_overview",
+    "question": "What is Directorate of Affiliation?",
+    "expected_keywords": [
+      "Directorate of Affiliation"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_affiliation_contact",
+    "question": "What is the contact information of Directorate of Affiliation?",
+    "expected_keywords": [
+      "Directorate of Affiliation"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_alumni_affairs_overview",
+    "question": "What is Directorate of Alumni Affairs?",
+    "expected_keywords": [
+      "Directorate of Alumni Affairs"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_alumni_affairs_contact",
+    "question": "What is the contact information of Directorate of Alumni Affairs?",
+    "expected_keywords": [
+      "Directorate of Alumni Affairs"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_career_counseling_and_placement_center_ccpc_overview",
+    "question": "What is Directorate of Career Counseling and Placement Center (CCPC?",
+    "expected_keywords": [
+      "Directorate of Career Counseling and Placement Center (CCPC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_career_counseling_and_placement_center_ccpc_contact",
+    "question": "What is the contact information of Directorate of Career Counseling and Placement Center (CCPC?",
+    "expected_keywords": [
+      "Directorate of Career Counseling and Placement Center (CCPC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_culture_and_heritage_research_center_chrc_overview",
+    "question": "What is Directorate of Culture and Heritage Research Center (CHRC?",
+    "expected_keywords": [
+      "Directorate of Culture and Heritage Research Center (CHRC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_culture_and_heritage_research_center_chrc_contact",
+    "question": "What is the contact information of Directorate of Culture and Heritage Research Center (CHRC?",
+    "expected_keywords": [
+      "Directorate of Culture and Heritage Research Center (CHRC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_engineering_overview",
+    "question": "What is Directorate of Engineering?",
+    "expected_keywords": [
+      "Directorate of Engineering"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_engineering_contact",
+    "question": "What is the contact information of Directorate of Engineering?",
+    "expected_keywords": [
+      "Directorate of Engineering"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_financial_assistance_overview",
+    "question": "What is Directorate of Financial Assistance?",
+    "expected_keywords": [
+      "Directorate of Financial Assistance"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_financial_assistance_contact",
+    "question": "What is the contact information of Directorate of Financial Assistance?",
+    "expected_keywords": [
+      "Directorate of Financial Assistance"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_fundraising_and_university_advancement_overview",
+    "question": "What is Directorate of Fundraising and University Advancement?",
+    "expected_keywords": [
+      "Directorate of Fundraising and University Advancement"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_fundraising_and_university_advancement_contact",
+    "question": "What is the contact information of Directorate of Fundraising and University Advancement?",
+    "expected_keywords": [
+      "Directorate of Fundraising and University Advancement"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_furniture_manufacturing_unit_overview",
+    "question": "What is Directorate of Furniture Manufacturing Unit?",
+    "expected_keywords": [
+      "Directorate of Furniture Manufacturing Unit"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_furniture_manufacturing_unit_contact",
+    "question": "What is the contact information of Directorate of Furniture Manufacturing Unit?",
+    "expected_keywords": [
+      "Directorate of Furniture Manufacturing Unit"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_iub_biodiversity_park_overview",
+    "question": "What is Directorate of IUB Biodiversity Park?",
+    "expected_keywords": [
+      "Directorate of IUB Biodiversity Park"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_iub_biodiversity_park_contact",
+    "question": "What is the contact information of Directorate of IUB Biodiversity Park?",
+    "expected_keywords": [
+      "Directorate of IUB Biodiversity Park"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_information_technology_overview",
+    "question": "What is Directorate of Information Technology?",
+    "expected_keywords": [
+      "Directorate of Information Technology"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_information_technology_contact",
+    "question": "What is the contact information of Directorate of Information Technology?",
+    "expected_keywords": [
+      "Directorate of Information Technology"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_international_linkages_dil_at_iub_overview",
+    "question": "What is Directorate of International Linkages (DIL) at IUB?",
+    "expected_keywords": [
+      "Directorate of International Linkages (DIL) at IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_international_linkages_dil_at_iub_contact",
+    "question": "What is the contact information of Directorate of International Linkages (DIL) at IUB?",
+    "expected_keywords": [
+      "Directorate of International Linkages (DIL) at IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_islamia_university_school_system_iss_overview",
+    "question": "What is Directorate of Islamia University School System (ISS?",
+    "expected_keywords": [
+      "Directorate of Islamia University School System (ISS"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_islamia_university_school_system_iss_contact",
+    "question": "What is the contact information of Directorate of Islamia University School System (ISS?",
+    "expected_keywords": [
+      "Directorate of Islamia University School System (ISS"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_land_records_overview",
+    "question": "What is Directorate of Land Records?",
+    "expected_keywords": [
+      "Directorate of Land Records"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_land_records_contact",
+    "question": "What is the contact information of Directorate of Land Records?",
+    "expected_keywords": [
+      "Directorate of Land Records"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_outreach_communication_and_public_relations_overview",
+    "question": "What is Directorate of Outreach, Communication and Public Relations?",
+    "expected_keywords": [
+      "Directorate of Outreach, Communication and Public Relations"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_outreach_communication_and_public_relations_contact",
+    "question": "What is the contact information of Directorate of Outreach, Communication and Public Relations?",
+    "expected_keywords": [
+      "Directorate of Outreach, Communication and Public Relations"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_outreach_communications_and_public_relations_abbasia_campus_iub_overview",
+    "question": "What is Directorate of Outreach, Communications and Public Relations, Abbasia Campus, IUB?",
+    "expected_keywords": [
+      "Directorate of Outreach, Communications and Public Relations, Abbasia Campus, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_outreach_communications_and_public_relations_abbasia_campus_iub_contact",
+    "question": "What is the contact information of Directorate of Outreach, Communications and Public Relations, Abbasia Campus, IUB?",
+    "expected_keywords": [
+      "Directorate of Outreach, Communications and Public Relations, Abbasia Campus, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_planning_and_development_overview",
+    "question": "What is Directorate of Planning and Development?",
+    "expected_keywords": [
+      "Directorate of Planning and Development"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_planning_and_development_contact",
+    "question": "What is the contact information of Directorate of Planning and Development?",
+    "expected_keywords": [
+      "Directorate of Planning and Development"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_private_students_overview",
+    "question": "What is Directorate of Private Students?",
+    "expected_keywords": [
+      "Directorate of Private Students"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_private_students_contact",
+    "question": "What is the contact information of Directorate of Private Students?",
+    "expected_keywords": [
+      "Directorate of Private Students"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_sports_overview",
+    "question": "What is Directorate of Sports?",
+    "expected_keywords": [
+      "Directorate of Sports"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_sports_contact",
+    "question": "What is the contact information of Directorate of Sports?",
+    "expected_keywords": [
+      "Directorate of Sports"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_sports_at_iub_was_established_in_overview",
+    "question": "What is Directorate of Sports at IUB was established in?",
+    "expected_keywords": [
+      "Directorate of Sports at IUB was established in"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_sports_at_iub_was_established_in_contact",
+    "question": "What is the contact information of Directorate of Sports at IUB was established in?",
+    "expected_keywords": [
+      "Directorate of Sports at IUB was established in"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_student_affairs_overview",
+    "question": "What is Directorate of Student Affairs?",
+    "expected_keywords": [
+      "Directorate of Student Affairs"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_student_affairs_contact",
+    "question": "What is the contact information of Directorate of Student Affairs?",
+    "expected_keywords": [
+      "Directorate of Student Affairs"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_women_health_care_centre_maternity_home_whcc_mh_overview",
+    "question": "What is Directorate of Women Health Care Centre & Maternity Home (WHCC&MH?",
+    "expected_keywords": [
+      "Directorate of Women Health Care Centre & Maternity Home (WHCC&MH"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "directorate_directorate_of_women_health_care_centre_maternity_home_whcc_mh_contact",
+    "question": "What is the contact information of Directorate of Women Health Care Centre & Maternity Home (WHCC&MH?",
+    "expected_keywords": [
+      "Directorate of Women Health Care Centre & Maternity Home (WHCC&MH"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "directorate_contact",
+    "difficulty": "medium"
+  },
+  {
+    "id": "division_audit_division_overview",
+    "question": "Tell me about Audit Division.",
+    "expected_keywords": [
+      "Audit Division"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "division_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "division_examination_division_overview",
+    "question": "Tell me about Examination Division.",
+    "expected_keywords": [
+      "Examination Division"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "division_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "division_medical_and_health_division_overview",
+    "question": "Tell me about Medical and Health Division.",
+    "expected_keywords": [
+      "Medical and Health Division"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "division_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "division_motor_transport_division_overview",
+    "question": "Tell me about Motor Transport Division.",
+    "expected_keywords": [
+      "Motor Transport Division"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "division_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "division_security_systems_division_overview",
+    "question": "Tell me about Security Systems Division.",
+    "expected_keywords": [
+      "Security Systems Division"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "division_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "division_the_audit_division_overview",
+    "question": "Tell me about The Audit Division.",
+    "expected_keywords": [
+      "The Audit Division"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "division_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "division_the_medical_and_health_division_overview",
+    "question": "Tell me about The Medical and Health Division.",
+    "expected_keywords": [
+      "The Medical and Health Division"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "division_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "division_the_motor_transport_division_overview",
+    "question": "Tell me about The Motor Transport Division.",
+    "expected_keywords": [
+      "The Motor Transport Division"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "division_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "division_the_security_systems_division_overview",
+    "question": "Tell me about The Security Systems Division.",
+    "expected_keywords": [
+      "The Security Systems Division"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "division_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "center_accessibility_center_overview",
+    "question": "Tell me about Accessibility Center.",
+    "expected_keywords": [
+      "Accessibility Center"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "center_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "center_career_counseling_placement_center_overview",
+    "question": "Tell me about Career Counseling & Placement Center.",
+    "expected_keywords": [
+      "Career Counseling & Placement Center"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "center_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "center_center_for_students_with_disabilities_overview",
+    "question": "Tell me about Center for Students with Disabilities.",
+    "expected_keywords": [
+      "Center for Students with Disabilities"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "center_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "center_directorate_of_career_counseling_placement_center_overview",
+    "question": "Tell me about Directorate of Career Counseling & Placement Center.",
+    "expected_keywords": [
+      "Directorate of Career Counseling & Placement Center"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "center_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "center_directorate_of_career_counseling_and_placement_center_overview",
+    "question": "Tell me about Directorate of Career Counseling and Placement Center.",
+    "expected_keywords": [
+      "Directorate of Career Counseling and Placement Center"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "center_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "center_directorate_of_culture_and_heritage_research_center_overview",
+    "question": "Tell me about Directorate of Culture and Heritage Research Center.",
+    "expected_keywords": [
+      "Directorate of Culture and Heritage Research Center"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "center_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "center_directorate_of_women_health_care_centre_overview",
+    "question": "Tell me about Directorate of Women Health Care Centre.",
+    "expected_keywords": [
+      "Directorate of Women Health Care Centre"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "center_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "center_executive_training_center_overview",
+    "question": "Tell me about Executive Training Center.",
+    "expected_keywords": [
+      "Executive Training Center"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "center_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "center_muhammad_jamshaid_serves_as_call_centre_overview",
+    "question": "Tell me about Muhammad Jamshaid serves as Call Centre.",
+    "expected_keywords": [
+      "Muhammad Jamshaid serves as Call Centre"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "center_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "center_shenzhen_university_health_science_center_overview",
+    "question": "Tell me about Shenzhen University Health Science Center.",
+    "expected_keywords": [
+      "Shenzhen University Health Science Center"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "center_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "center_the_directorate_of_career_counseling_and_placement_center_overview",
+    "question": "Tell me about The Directorate of Career Counseling and Placement Center.",
+    "expected_keywords": [
+      "The Directorate of Career Counseling and Placement Center"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "center_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "center_the_enabling_center_overview",
+    "question": "Tell me about The Enabling Center.",
+    "expected_keywords": [
+      "The Enabling Center"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "center_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "institute_institute_of_desert_studies_cids_iub_punjab_pakistan_overview",
+    "question": "Tell me about Institute of Desert Studies (CIDS), IUB, Punjab, Pakistan.",
+    "expected_keywords": [
+      "Institute of Desert Studies (CIDS), IUB, Punjab, Pakistan"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "institute_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "institute_institute_of_desert_studies_cids_and_director_of_iub_biodiversity_park_overview",
+    "question": "Tell me about Institute of Desert Studies (CIDS), and Director of IUB Biodiversity Park.",
+    "expected_keywords": [
+      "Institute of Desert Studies (CIDS), and Director of IUB Biodiversity Park"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "institute_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "institute_institute_of_distance_education_overview",
+    "question": "Tell me about Institute of Distance Education.",
+    "expected_keywords": [
+      "Institute of Distance Education"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "institute_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "institute_institute_of_distance_education_phd_overview",
+    "question": "Tell me about Institute of Distance Education, PhD.",
+    "expected_keywords": [
+      "Institute of Distance Education, PhD"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "institute_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "institute_institute_of_forest_sciences_at_iub_overview",
+    "question": "Tell me about Institute of Forest Sciences at IUB.",
+    "expected_keywords": [
+      "Institute of Forest Sciences at IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "institute_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "institute_institute_of_health_sciences_and_agile_institute_of_rehabilitation_sciences_overview",
+    "question": "Tell me about Institute of Health Sciences and Agile Institute of Rehabilitation Sciences.",
+    "expected_keywords": [
+      "Institute of Health Sciences and Agile Institute of Rehabilitation Sciences"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "institute_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "institute_institute_of_xiamen_university_overview",
+    "question": "Tell me about Institute of Xiamen University.",
+    "expected_keywords": [
+      "Institute of Xiamen University"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "institute_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office_board_office_overview",
+    "question": "Tell me about Board Office.",
+    "expected_keywords": [
+      "Board Office"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "office_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office_dean_office_overview",
+    "question": "Tell me about Dean Office.",
+    "expected_keywords": [
+      "Dean Office"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "office_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office_office_of_estate_care_overview",
+    "question": "Tell me about Office of Estate Care.",
+    "expected_keywords": [
+      "Office of Estate Care"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "office_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office_office_of_estate_care_and_space_management_abbasia_campus_iub_overview",
+    "question": "Tell me about Office of Estate Care and Space Management, Abbasia Campus, IUB.",
+    "expected_keywords": [
+      "Office of Estate Care and Space Management, Abbasia Campus, IUB"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "office_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office_office_of_occupational_safety_and_health_osah_overview",
+    "question": "Tell me about Office of Occupational Safety and Health (OSAH.",
+    "expected_keywords": [
+      "Office of Occupational Safety and Health (OSAH"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "office_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office_office_of_research_innovation_and_commercialization_oric_overview",
+    "question": "Tell me about Office of Research, Innovation and Commercialization (ORIC.",
+    "expected_keywords": [
+      "Office of Research, Innovation and Commercialization (ORIC"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "office_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office_office_of_research_innovation_and_commercialization_oric_prof_overview",
+    "question": "Tell me about Office of Research, Innovation and Commercialization (ORIC), Prof.",
+    "expected_keywords": [
+      "Office of Research, Innovation and Commercialization (ORIC), Prof"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "office_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office_space_management_office_overview",
+    "question": "Tell me about Space Management Office.",
+    "expected_keywords": [
+      "Space Management Office"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "office_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office_syed_salman_ali_works_as_assistant_in_the_senior_tutor_office_overview",
+    "question": "Tell me about Syed Salman Ali works as Assistant in the Senior Tutor Office.",
+    "expected_keywords": [
+      "Syed Salman Ali works as Assistant in the Senior Tutor Office"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculty data.docx",
+    "question_type": "office_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office_vice_chancellor_office_overview",
+    "question": "Tell me about Vice Chancellor Office.",
+    "expected_keywords": [
+      "Vice Chancellor Office"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "Vice chancellor.docx",
+    "question_type": "office_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_agriculture_and_environmental_sciences_overview",
+    "question": "Tell me about Faculty of Agriculture and Environmental Sciences.",
+    "expected_keywords": [
+      "Faculty of Agriculture and Environmental Sciences"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_agriculture_and_environmental_sciences_departments",
+    "question": "What departments are under Faculty of Agriculture and Environmental Sciences?",
+    "expected_keywords": [
+      "Faculty of Agriculture and Environmental Sciences",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_arts_languages_overview",
+    "question": "Tell me about Faculty of Arts & Languages.",
+    "expected_keywords": [
+      "Faculty of Arts & Languages"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_arts_languages_departments",
+    "question": "What departments are under Faculty of Arts & Languages?",
+    "expected_keywords": [
+      "Faculty of Arts & Languages",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_chemical_biological_sciences_overview",
+    "question": "Tell me about Faculty of Chemical & Biological Sciences.",
+    "expected_keywords": [
+      "Faculty of Chemical & Biological Sciences"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_chemical_biological_sciences_departments",
+    "question": "What departments are under Faculty of Chemical & Biological Sciences?",
+    "expected_keywords": [
+      "Faculty of Chemical & Biological Sciences",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_computing_overview",
+    "question": "Tell me about Faculty of Computing.",
+    "expected_keywords": [
+      "Faculty of Computing"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_computing_departments",
+    "question": "What departments are under Faculty of Computing?",
+    "expected_keywords": [
+      "Faculty of Computing",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_engineering_and_technology_overview",
+    "question": "Tell me about Faculty of Engineering and Technology.",
+    "expected_keywords": [
+      "Faculty of Engineering and Technology"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_engineering_and_technology_departments",
+    "question": "What departments are under Faculty of Engineering and Technology?",
+    "expected_keywords": [
+      "Faculty of Engineering and Technology",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_islamic_learning_overview",
+    "question": "Tell me about Faculty of Islamic Learning.",
+    "expected_keywords": [
+      "Faculty of Islamic Learning"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_islamic_learning_departments",
+    "question": "What departments are under Faculty of Islamic Learning?",
+    "expected_keywords": [
+      "Faculty of Islamic Learning",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_management_sciences_and_commerce_overview",
+    "question": "Tell me about Faculty of Management Sciences and Commerce.",
+    "expected_keywords": [
+      "Faculty of Management Sciences and Commerce"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_management_sciences_and_commerce_departments",
+    "question": "What departments are under Faculty of Management Sciences and Commerce?",
+    "expected_keywords": [
+      "Faculty of Management Sciences and Commerce",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_pharmacy_overview",
+    "question": "Tell me about Faculty of Pharmacy.",
+    "expected_keywords": [
+      "Faculty of Pharmacy"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_pharmacy_departments",
+    "question": "What departments are under Faculty of Pharmacy?",
+    "expected_keywords": [
+      "Faculty of Pharmacy",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_physical_and_mathematical_sciences_overview",
+    "question": "Tell me about Faculty of Physical and Mathematical Sciences.",
+    "expected_keywords": [
+      "Faculty of Physical and Mathematical Sciences"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_physical_and_mathematical_sciences_departments",
+    "question": "What departments are under Faculty of Physical and Mathematical Sciences?",
+    "expected_keywords": [
+      "Faculty of Physical and Mathematical Sciences",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_social_sciences_overview",
+    "question": "Tell me about Faculty of Social Sciences.",
+    "expected_keywords": [
+      "Faculty of Social Sciences"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_social_sciences_departments",
+    "question": "What departments are under Faculty of Social Sciences?",
+    "expected_keywords": [
+      "Faculty of Social Sciences",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_veterinary_and_animal_sciences_overview",
+    "question": "Tell me about Faculty of Veterinary and Animal Sciences.",
+    "expected_keywords": [
+      "Faculty of Veterinary and Animal Sciences"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "faculty_faculty_of_veterinary_and_animal_sciences_departments",
+    "question": "What departments are under Faculty of Veterinary and Animal Sciences?",
+    "expected_keywords": [
+      "Faculty of Veterinary and Animal Sciences",
+      "Department"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "faculty_departments",
+    "difficulty": "hard"
+  },
+  {
+    "id": "institute_institute_of_agro_industry_environment_overview",
+    "question": "Tell me about Institute of Agro-Industry & Environment.",
+    "expected_keywords": [
+      "Institute of Agro-Industry & Environment"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "institute_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "institute_institute_of_biochemistry_biotechnology_overview",
+    "question": "Tell me about Institute of Biochemistry,Biotechnology.",
+    "expected_keywords": [
+      "Institute of Biochemistry,Biotechnology"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "institute_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "institute_institute_of_business_management_overview",
+    "question": "Tell me about Institute of Business Management.",
+    "expected_keywords": [
+      "Institute of Business Management"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "institute_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "institute_institute_of_chemistry_overview",
+    "question": "Tell me about Institute of Chemistry.",
+    "expected_keywords": [
+      "Institute of Chemistry"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "institute_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "institute_institute_of_forest_sciences_overview",
+    "question": "Tell me about Institute of Forest Sciences.",
+    "expected_keywords": [
+      "Institute of Forest Sciences"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "institute_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "institute_institute_of_physics_overview",
+    "question": "Tell me about Institute of Physics.",
+    "expected_keywords": [
+      "Institute of Physics"
+    ],
+    "expected_category": "faculty and departments",
+    "expected_source": "faculties with department.pdf",
+    "question_type": "institute_overview",
+    "difficulty": "hard"
+  },
+  {
+    "id": "program_b_ed_04_years_fee",
+    "question": "What is the fee structure for B.Ed 04 years?",
+    "expected_keywords": [
+      "B.Ed 04 years",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_hons_agriculture_fee",
+    "question": "What is the fee structure for BS (Hons) Agriculture?",
+    "expected_keywords": [
+      "BS (Hons) Agriculture",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_accounting_finance_fee",
+    "question": "What is the fee structure for BS Accounting & Finance?",
+    "expected_keywords": [
+      "BS Accounting & Finance",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_administrative_management_sciences_fee",
+    "question": "What is the fee structure for BS Administrative & Management Sciences?",
+    "expected_keywords": [
+      "BS Administrative & Management Sciences",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_agri_fee",
+    "question": "What is the fee structure for BS Agri?",
+    "expected_keywords": [
+      "BS Agri",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_anesthesia_technology_fee",
+    "question": "What is the fee structure for BS Anesthesia Technology?",
+    "expected_keywords": [
+      "BS Anesthesia Technology",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_anthropology_fee",
+    "question": "What is the fee structure for BS Anthropology?",
+    "expected_keywords": [
+      "BS Anthropology",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_applied_psychology_fee",
+    "question": "What is the fee structure for BS Applied Psychology?",
+    "expected_keywords": [
+      "BS Applied Psychology",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_arabic_fee",
+    "question": "What is the fee structure for BS Arabic?",
+    "expected_keywords": [
+      "BS Arabic",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_archeology_fee",
+    "question": "What is the fee structure for BS Archeology?",
+    "expected_keywords": [
+      "BS Archeology",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_artificial_intelligence_fee",
+    "question": "What is the fee structure for BS Artificial Intelligence?",
+    "expected_keywords": [
+      "BS Artificial Intelligence",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_banking_and_finance_fee",
+    "question": "What is the fee structure for BS Banking and Finance?",
+    "expected_keywords": [
+      "BS Banking and Finance",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_biochemistry_fee",
+    "question": "What is the fee structure for BS Biochemistry?",
+    "expected_keywords": [
+      "BS Biochemistry",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_botany_fee",
+    "question": "What is the fee structure for BS Botany?",
+    "expected_keywords": [
+      "BS Botany",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_business_economics_fee",
+    "question": "What is the fee structure for BS Business Economics?",
+    "expected_keywords": [
+      "BS Business Economics",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_chemistry_fee",
+    "question": "What is the fee structure for BS Chemistry?",
+    "expected_keywords": [
+      "BS Chemistry",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_commerce_fee",
+    "question": "What is the fee structure for BS Commerce?",
+    "expected_keywords": [
+      "BS Commerce",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_computer_science_fee",
+    "question": "What is the fee structure for BS Computer Science?",
+    "expected_keywords": [
+      "BS Computer Science",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_data_sciences_fee",
+    "question": "What is the fee structure for BS Data Sciences?",
+    "expected_keywords": [
+      "BS Data Sciences",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_defence_fee",
+    "question": "What is the fee structure for BS Defence?",
+    "expected_keywords": [
+      "BS Defence",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_development_studies_fee",
+    "question": "What is the fee structure for BS Development Studies?",
+    "expected_keywords": [
+      "BS Development Studies",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_digital_marketing_fee",
+    "question": "What is the fee structure for BS Digital Marketing?",
+    "expected_keywords": [
+      "BS Digital Marketing",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_e_commerce_fee",
+    "question": "What is the fee structure for BS E-Commerce?",
+    "expected_keywords": [
+      "BS E-Commerce",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_early_childhood_education_fee",
+    "question": "What is the fee structure for BS Early Childhood Education?",
+    "expected_keywords": [
+      "BS Early Childhood Education",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_economics_fee",
+    "question": "What is the fee structure for BS Economics?",
+    "expected_keywords": [
+      "BS Economics",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_economics_finance_fee",
+    "question": "What is the fee structure for BS Economics & Finance?",
+    "expected_keywords": [
+      "BS Economics & Finance",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_ed_fee",
+    "question": "What is the fee structure for BS Ed?",
+    "expected_keywords": [
+      "BS Ed",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_education_fee",
+    "question": "What is the fee structure for BS Education?",
+    "expected_keywords": [
+      "BS Education",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_educational_leadership_and_management_fee",
+    "question": "What is the fee structure for BS Educational Leadership and Management?",
+    "expected_keywords": [
+      "BS Educational Leadership and Management",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_educational_planning_management_fee",
+    "question": "What is the fee structure for BS Educational Planning & Management?",
+    "expected_keywords": [
+      "BS Educational Planning & Management",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_elementary_education_fee",
+    "question": "What is the fee structure for BS Elementary Education?",
+    "expected_keywords": [
+      "BS Elementary Education",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_english_language_linguistics_fee",
+    "question": "What is the fee structure for BS English Language & Linguistics?",
+    "expected_keywords": [
+      "BS English Language & Linguistics",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_english_language_literature_fee",
+    "question": "What is the fee structure for BS English Language & Literature?",
+    "expected_keywords": [
+      "BS English Language & Literature",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_english_language_teaching_fee",
+    "question": "What is the fee structure for BS English Language Teaching?",
+    "expected_keywords": [
+      "BS English Language Teaching",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_environmental_sciences_fee",
+    "question": "What is the fee structure for BS Environmental Sciences?",
+    "expected_keywords": [
+      "BS Environmental Sciences",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_food_science_and_technology_fee",
+    "question": "What is the fee structure for BS Food Science and Technology?",
+    "expected_keywords": [
+      "BS Food Science and Technology",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_forestry_fee",
+    "question": "What is the fee structure for BS Forestry?",
+    "expected_keywords": [
+      "BS Forestry",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_gender_studies_fee",
+    "question": "What is the fee structure for BS Gender Studies?",
+    "expected_keywords": [
+      "BS Gender Studies",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_genetics_fee",
+    "question": "What is the fee structure for BS Genetics?",
+    "expected_keywords": [
+      "BS Genetics",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_history_fee",
+    "question": "What is the fee structure for BS History?",
+    "expected_keywords": [
+      "BS History",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_home_economics_fee",
+    "question": "What is the fee structure for BS Home Economics?",
+    "expected_keywords": [
+      "BS Home Economics",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_horticulture_science_fee",
+    "question": "What is the fee structure for BS Horticulture Science?",
+    "expected_keywords": [
+      "BS Horticulture Science",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_information_management_fee",
+    "question": "What is the fee structure for BS Information Management?",
+    "expected_keywords": [
+      "BS Information Management",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_information_security_fee",
+    "question": "What is the fee structure for BS Information Security?",
+    "expected_keywords": [
+      "BS Information Security",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_information_technology_fee",
+    "question": "What is the fee structure for BS Information Technology?",
+    "expected_keywords": [
+      "BS Information Technology",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_international_relations_fee",
+    "question": "What is the fee structure for BS International Relations?",
+    "expected_keywords": [
+      "BS International Relations",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_internet_of_things_fee",
+    "question": "What is the fee structure for BS Internet of Things?",
+    "expected_keywords": [
+      "BS Internet of Things",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_iqbal_studies_fee",
+    "question": "What is the fee structure for BS Iqbal Studies?",
+    "expected_keywords": [
+      "BS Iqbal Studies",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_islamic_studies_fee",
+    "question": "What is the fee structure for BS Islamic Studies?",
+    "expected_keywords": [
+      "BS Islamic Studies",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_leadership_management_fee",
+    "question": "What is the fee structure for BS Leadership & Management?",
+    "expected_keywords": [
+      "BS Leadership & Management",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_mass_communication_fee",
+    "question": "What is the fee structure for BS Mass Communication?",
+    "expected_keywords": [
+      "BS Mass Communication",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_mathematics_fee",
+    "question": "What is the fee structure for BS Mathematics?",
+    "expected_keywords": [
+      "BS Mathematics",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_medical_laboratory_technology_fee",
+    "question": "What is the fee structure for BS Medical Laboratory Technology?",
+    "expected_keywords": [
+      "BS Medical Laboratory Technology",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_microbiology_fee",
+    "question": "What is the fee structure for BS Microbiology?",
+    "expected_keywords": [
+      "BS Microbiology",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_operation_theatre_technology_fee",
+    "question": "What is the fee structure for BS Operation Theatre Technology?",
+    "expected_keywords": [
+      "BS Operation Theatre Technology",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_pakistan_studies_fee",
+    "question": "What is the fee structure for BS Pakistan Studies?",
+    "expected_keywords": [
+      "BS Pakistan Studies",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_persian_fee",
+    "question": "What is the fee structure for BS Persian?",
+    "expected_keywords": [
+      "BS Persian",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_philosophy_fee",
+    "question": "What is the fee structure for BS Philosophy?",
+    "expected_keywords": [
+      "BS Philosophy",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_physical_education_sports_sciences_fee",
+    "question": "What is the fee structure for BS Physical Education & Sports Sciences?",
+    "expected_keywords": [
+      "BS Physical Education & Sports Sciences",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_physics_fee",
+    "question": "What is the fee structure for BS Physics?",
+    "expected_keywords": [
+      "BS Physics",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_political_science_fee",
+    "question": "What is the fee structure for BS Political Science?",
+    "expected_keywords": [
+      "BS Political Science",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_politics_parliamentary_studies_fee",
+    "question": "What is the fee structure for BS Politics & Parliamentary Studies?",
+    "expected_keywords": [
+      "BS Politics & Parliamentary Studies",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_public_administration_fee",
+    "question": "What is the fee structure for BS Public Administration?",
+    "expected_keywords": [
+      "BS Public Administration",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_public_policy_and_governance_fee",
+    "question": "What is the fee structure for BS Public Policy and Governance?",
+    "expected_keywords": [
+      "BS Public Policy and Governance",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_radiology_imaging_technology_fee",
+    "question": "What is the fee structure for BS Radiology & Imaging Technology?",
+    "expected_keywords": [
+      "BS Radiology & Imaging Technology",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_saraiki_fee",
+    "question": "What is the fee structure for BS Saraiki?",
+    "expected_keywords": [
+      "BS Saraiki",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_science_or_fee",
+    "question": "What is the fee structure for BS Science or?",
+    "expected_keywords": [
+      "BS Science or",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_secondary_education_fee",
+    "question": "What is the fee structure for BS Secondary Education?",
+    "expected_keywords": [
+      "BS Secondary Education",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_social_work_fee",
+    "question": "What is the fee structure for BS Social Work?",
+    "expected_keywords": [
+      "BS Social Work",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_sociology_fee",
+    "question": "What is the fee structure for BS Sociology?",
+    "expected_keywords": [
+      "BS Sociology",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_software_engineering_fee",
+    "question": "What is the fee structure for BS Software Engineering?",
+    "expected_keywords": [
+      "BS Software Engineering",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_special_education_fee",
+    "question": "What is the fee structure for BS Special Education?",
+    "expected_keywords": [
+      "BS Special Education",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_statistics_fee",
+    "question": "What is the fee structure for BS Statistics?",
+    "expected_keywords": [
+      "BS Statistics",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_supply_chain_management_fee",
+    "question": "What is the fee structure for BS Supply Chain Management?",
+    "expected_keywords": [
+      "BS Supply Chain Management",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_translation_interpretation_fee",
+    "question": "What is the fee structure for BS Translation & Interpretation?",
+    "expected_keywords": [
+      "BS Translation & Interpretation",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_urdu_fee",
+    "question": "What is the fee structure for BS Urdu?",
+    "expected_keywords": [
+      "BS Urdu",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_water_management_fee",
+    "question": "What is the fee structure for BS Water Management?",
+    "expected_keywords": [
+      "BS Water Management",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_zoology_fee",
+    "question": "What is the fee structure for BS Zoology?",
+    "expected_keywords": [
+      "BS Zoology",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_in_disaster_management_fee",
+    "question": "What is the fee structure for BS in Disaster Management?",
+    "expected_keywords": [
+      "BS in Disaster Management",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bs_or_fee",
+    "question": "What is the fee structure for BS or?",
+    "expected_keywords": [
+      "BS or",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bsc_chemical_engineering_fee",
+    "question": "What is the fee structure for BSc Chemical Engineering?",
+    "expected_keywords": [
+      "BSc Chemical Engineering",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bsc_civil_engineering_fee",
+    "question": "What is the fee structure for BSc Civil Engineering?",
+    "expected_keywords": [
+      "BSc Civil Engineering",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bsc_computer_engineering_fee",
+    "question": "What is the fee structure for BSc Computer Engineering?",
+    "expected_keywords": [
+      "BSc Computer Engineering",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bsc_electrical_engineering_fee",
+    "question": "What is the fee structure for BSc Electrical Engineering?",
+    "expected_keywords": [
+      "BSc Electrical Engineering",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bsc_mechanical_engineering_fee",
+    "question": "What is the fee structure for BSc Mechanical Engineering?",
+    "expected_keywords": [
+      "BSc Mechanical Engineering",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_bsc_telecommunication_engineering_fee",
+    "question": "What is the fee structure for BSc Telecommunication Engineering?",
+    "expected_keywords": [
+      "BSc Telecommunication Engineering",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_diplomatic_studies_fee",
+    "question": "What is the fee structure for Diplomatic Studies?",
+    "expected_keywords": [
+      "Diplomatic Studies",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_mba_non_business_evening_fee",
+    "question": "What is the fee structure for MBA (Non Business) (Evening?",
+    "expected_keywords": [
+      "MBA (Non Business) (Evening",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "program_ms_evening_having_fee",
+    "question": "What is the fee structure for MS (Evening) having?",
+    "expected_keywords": [
+      "MS (Evening) having",
+      "fee"
+    ],
+    "expected_category": "fees",
+    "expected_source": "Revised fee.docx",
+    "question_type": "program_fee",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_beef_scholarship_program_overview",
+    "question": "What is the BEEF Scholarship Program?",
+    "expected_keywords": [
+      "BEEF",
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "BEEF Scholarship Program.docx",
+    "question_type": "scholarship_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_diya_scholarship_overview",
+    "question": "What is the Diya Scholarship?",
+    "expected_keywords": [
+      "Diya",
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "Diya Scholarship.docx",
+    "question_type": "scholarship_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_diya_scholarship_eligibility",
+    "question": "What is the eligibility criteria for Diya Scholarship?",
+    "expected_keywords": [
+      "eligibility"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "Diya Scholarship.docx",
+    "question_type": "scholarship_eligibility",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_ehsaas_scholarship_overview",
+    "question": "What is the Ehsaas Scholarship?",
+    "expected_keywords": [
+      "Ehsaas",
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "Ehsaas Scholarship.docx",
+    "question_type": "scholarship_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_ehsaas_scholarship_eligibility",
+    "question": "What is the eligibility criteria for Ehsaas Scholarship?",
+    "expected_keywords": [
+      "eligibility"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "Ehsaas Scholarship.docx",
+    "question_type": "scholarship_eligibility",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_gilgit_baltistan_scholarship_overview",
+    "question": "What is the Gilgit Baltistan Scholarship?",
+    "expected_keywords": [
+      "Gilgit",
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "Gilgit Baltistan Scholarship.docx",
+    "question_type": "scholarship_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_gilgit_baltistan_scholarship_eligibility",
+    "question": "What is the eligibility criteria for Gilgit Baltistan Scholarship?",
+    "expected_keywords": [
+      "eligibility"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "Gilgit Baltistan Scholarship.docx",
+    "question_type": "scholarship_eligibility",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_gwadar_scholarship_overview",
+    "question": "What is the Gwadar Scholarship?",
+    "expected_keywords": [
+      "Gwadar",
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "Gwadar Scholarship.docx",
+    "question_type": "scholarship_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_gwadar_scholarship_eligibility",
+    "question": "What is the eligibility criteria for Gwadar Scholarship?",
+    "expected_keywords": [
+      "eligibility"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "Gwadar Scholarship.docx",
+    "question_type": "scholarship_eligibility",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_hec_need_based_scholarship_overview",
+    "question": "What is the HEC Need Based Scholarship?",
+    "expected_keywords": [
+      "HEC",
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "HEC Need Based Scholarship.docx",
+    "question_type": "scholarship_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_nest_scholarship_program_overview",
+    "question": "What is the NEST Scholarship Program?",
+    "expected_keywords": [
+      "NEST",
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "NEST Scholarship Program.docx",
+    "question_type": "scholarship_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_nest_scholarship_program_eligibility",
+    "question": "What is the eligibility criteria for NEST Scholarship Program?",
+    "expected_keywords": [
+      "eligibility"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "NEST Scholarship Program.docx",
+    "question_type": "scholarship_eligibility",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_pak_usaid_scholarship_overview",
+    "question": "What is the PAK – USAID Scholarship?",
+    "expected_keywords": [
+      "PAK",
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "PAK – USAID Scholarship.docx",
+    "question_type": "scholarship_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_pak_usaid_scholarship_eligibility",
+    "question": "What is the eligibility criteria for PAK – USAID Scholarship?",
+    "expected_keywords": [
+      "eligibility"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "PAK – USAID Scholarship.docx",
+    "question_type": "scholarship_eligibility",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_pakistan_scottish_scholarship_overview",
+    "question": "What is the Pakistan Scottish Scholarship?",
+    "expected_keywords": [
+      "Pakistan",
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "Pakistan Scottish Scholarship.docx",
+    "question_type": "scholarship_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_pakistan_scottish_scholarship_eligibility",
+    "question": "What is the eligibility criteria for Pakistan Scottish Scholarship?",
+    "expected_keywords": [
+      "eligibility"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "Pakistan Scottish Scholarship.docx",
+    "question_type": "scholarship_eligibility",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_rehamtul_lil_alameen_scholarship_program_overview",
+    "question": "What is the Rehamtul-lil-Alameen Scholarship Program?",
+    "expected_keywords": [
+      "Rehamtul-lil-Alameen",
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "PEEF ( Rahmatul lil Alameen).docx",
+    "question_type": "scholarship_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_rehamtul_lil_alameen_scholarship_program_eligibility",
+    "question": "What is the eligibility criteria for Rehamtul-lil-Alameen Scholarship Program?",
+    "expected_keywords": [
+      "eligibility"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "PEEF ( Rahmatul lil Alameen).docx",
+    "question_type": "scholarship_eligibility",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_peef_bachelor_level_scholarship_overview",
+    "question": "What is the PEEF Bachelor Level Scholarship?",
+    "expected_keywords": [
+      "PEEF",
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "PEEF Bachelor Level Scholarship.docx",
+    "question_type": "scholarship_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_peef_bachelor_level_scholarship_eligibility",
+    "question": "What is the eligibility criteria for PEEF Bachelor Level Scholarship?",
+    "expected_keywords": [
+      "eligibility"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "PEEF Bachelor Level Scholarship.docx",
+    "question_type": "scholarship_eligibility",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_peef_master_level_scholarship_overview",
+    "question": "What is the PEEF Master Level Scholarship?",
+    "expected_keywords": [
+      "PEEF",
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "PEEF Master Level Scholarship.docx",
+    "question_type": "scholarship_overview",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_peef_master_level_scholarship_eligibility",
+    "question": "What is the eligibility criteria for PEEF Master Level Scholarship?",
+    "expected_keywords": [
+      "eligibility"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "PEEF Master Level Scholarship.docx",
+    "question_type": "scholarship_eligibility",
+    "difficulty": "medium"
+  },
+  {
+    "id": "scholarship_hec_ehsaas_undergraduate_scholarship_program_hec_need_based_scholarship_overview",
+    "question": "What is the HEC-Ehsaas Undergraduate Scholarship Program, HEC-Need Based Scholarship?",
+    "expected_keywords": [
+      "HEC-Ehsaas",
+      "Scholarship"
+    ],
+    "expected_category": "scholarships",
+    "expected_source": "Student Support.docx",
+    "question_type": "scholarship_overview",
+    "difficulty": "medium"
+  }
+]

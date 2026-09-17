@@ -1,0 +1,2909 @@
+[
+  {
+    "program": "BS English Language & Literature",
+    "program_norm": "bs english language and literature",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS English Language & Literature",
+    "program_norm": "bs english language and literature",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "M.Phil/MS",
+    "program_norm": "mphil/ms",
+    "acronyms": [
+      "ms"
+    ],
+    "group": "Evening",
+    "tuition_fee": 46380,
+    "other_dues": 29210,
+    "total_1st_semester": 75590,
+    "total_other_semesters": 60000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Ph.D",
+    "program_norm": "phd",
+    "acronyms": [],
+    "group": "Evening",
+    "tuition_fee": 56380,
+    "other_dues": 44560,
+    "total_1st_semester": 100940,
+    "total_other_semesters": 70000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS English Language & Linguistics",
+    "program_norm": "bs english language and linguistics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS English Language & Linguistics",
+    "program_norm": "bs english language and linguistics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Diploma in TEFL (One Year Program)",
+    "program_norm": "diploma in tefl one year program",
+    "acronyms": [
+      "tefl"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Diploma in TEFL (One Year Program)",
+    "program_norm": "diploma in tefl one year program",
+    "acronyms": [
+      "tefl"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS History",
+    "program_norm": "bs history",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS History",
+    "program_norm": "bs history",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Archeology",
+    "program_norm": "bs archeology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35960,
+    "other_dues": 27130,
+    "total_1st_semester": 63090,
+    "total_other_semesters": 49580,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Archeology",
+    "program_norm": "bs archeology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45395,
+    "other_dues": 27130,
+    "total_1st_semester": 72525,
+    "total_other_semesters": 59015,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Pakistan Studies",
+    "program_norm": "bs pakistan studies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Pakistan Studies",
+    "program_norm": "bs pakistan studies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Persian",
+    "program_norm": "bs persian",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Persian",
+    "program_norm": "bs persian",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Saraiki",
+    "program_norm": "bs saraiki",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Saraiki",
+    "program_norm": "bs saraiki",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Urdu",
+    "program_norm": "bs urdu",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Urdu",
+    "program_norm": "bs urdu",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Iqbal Studies",
+    "program_norm": "bs iqbal studies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Iqbal Studies",
+    "program_norm": "bs iqbal studies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Philosophy",
+    "program_norm": "bs philosophy",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Philosophy",
+    "program_norm": "bs philosophy",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "pture, Miniature Painting, Visual Communication Design, Textile Design, Fashion Design, Ceramic Design and Interior Design (4 Years Program)",
+    "program_norm": "pture miniature painting visual communication design textile design fashion design ceramic design and interior design 4 years program",
+    "acronyms": [],
+    "group": "Group-A",
+    "tuition_fee": 40620,
+    "other_dues": 27130,
+    "total_1st_semester": 67750,
+    "total_other_semesters": 54240,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "pture, Miniature Painting, Visual Communication Design, Textile Design, Fashion Design, Ceramic Design and Interior Design (4 Years Program)",
+    "program_norm": "pture miniature painting visual communication design textile design fashion design ceramic design and interior design 4 years program",
+    "acronyms": [],
+    "group": "Group-B",
+    "tuition_fee": 46975,
+    "other_dues": 27130,
+    "total_1st_semester": 74105,
+    "total_other_semesters": 60595,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Applied Psychology",
+    "program_norm": "bs applied psychology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 36380,
+    "other_dues": 27130,
+    "total_1st_semester": 63510,
+    "total_other_semesters": 50000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Applied Psychology",
+    "program_norm": "bs applied psychology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 46975,
+    "other_dues": 27130,
+    "total_1st_semester": 74105,
+    "total_other_semesters": 60595,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Economics & Finance",
+    "program_norm": "bs economics and finance",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Economics & Finance",
+    "program_norm": "bs economics and finance",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Economics",
+    "program_norm": "bs economics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Economics",
+    "program_norm": "bs economics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Home Economics",
+    "program_norm": "bs home economics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Home Economics",
+    "program_norm": "bs home economics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Development Studies",
+    "program_norm": "bs development studies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Development Studies",
+    "program_norm": "bs development studies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS International Relations",
+    "program_norm": "bs international relations",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS International Relations",
+    "program_norm": "bs international relations",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Defence and Diplomatic Studies",
+    "program_norm": "bs defence and diplomaticstudies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Defence and Diplomatic Studies",
+    "program_norm": "bs defence and diplomaticstudies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Information Management",
+    "program_norm": "bs information management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Information Management",
+    "program_norm": "bs information management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Mass Communication",
+    "program_norm": "bs mass communication",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Mass Communication",
+    "program_norm": "bs mass communication",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Political Science",
+    "program_norm": "bs political science",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Political Science",
+    "program_norm": "bs political science",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Politics & Parliamentary Studies",
+    "program_norm": "bs politics and parliamentary studies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Politics & Parliamentary Studies",
+    "program_norm": "bs politics and parliamentary studies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Gender Studies",
+    "program_norm": "bs gender studies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Gender Studies",
+    "program_norm": "bs gender studies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Diploma in Local Government & Community Development (One Year Program) (Group B 45025 27130 72155 58645. M.Phil/MS",
+    "program_norm": "diploma in local government and community development one year program group b 45025 27130 72155 58645 mphil/ms",
+    "acronyms": [
+      "ms"
+    ],
+    "group": "Evening",
+    "tuition_fee": 46380,
+    "other_dues": 29210,
+    "total_1st_semester": 75590,
+    "total_other_semesters": 60000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Public Administration",
+    "program_norm": "bs public administration",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Public Administration",
+    "program_norm": "bs public administration",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Public Policy and Governance",
+    "program_norm": "bs public policy and governance",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Public Policy and Governance",
+    "program_norm": "bs public policy and governance",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Social Work",
+    "program_norm": "bs social work",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Social Work",
+    "program_norm": "bs social work",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Sociology",
+    "program_norm": "bs sociology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Sociology",
+    "program_norm": "bs sociology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Anthropology",
+    "program_norm": "bs anthropology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35960,
+    "other_dues": 27130,
+    "total_1st_semester": 63090,
+    "total_other_semesters": 49580,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Anthropology",
+    "program_norm": "bs anthropology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45395,
+    "other_dues": 27130,
+    "total_1st_semester": 72525,
+    "total_other_semesters": 59015,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS (Hons) Agriculture",
+    "program_norm": "bs hons agriculture",
+    "acronyms": [
+      "bs",
+      "hons"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 36380,
+    "other_dues": 27130,
+    "total_1st_semester": 63510,
+    "total_other_semesters": 50000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS (Hons) Agriculture",
+    "program_norm": "bs hons agriculture",
+    "acronyms": [
+      "bs",
+      "hons"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 64285,
+    "other_dues": 27130,
+    "total_1st_semester": 91415,
+    "total_other_semesters": 77905,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS (Seed Sciences & Technology)",
+    "program_norm": "bs seed sciences and technology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 36380,
+    "other_dues": 27130,
+    "total_1st_semester": 63510,
+    "total_other_semesters": 50000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "M.Phil/MS",
+    "program_norm": "mphil/ms",
+    "acronyms": [
+      "ms"
+    ],
+    "group": "Evening",
+    "tuition_fee": 56380,
+    "other_dues": 29210,
+    "total_1st_semester": 85590,
+    "total_other_semesters": 70000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Ph.D",
+    "program_norm": "phd",
+    "acronyms": [],
+    "group": "Evening",
+    "tuition_fee": 66380,
+    "other_dues": 44560,
+    "total_1st_semester": 110940,
+    "total_other_semesters": 80000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Forestry",
+    "program_norm": "bs forestry",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 36380,
+    "other_dues": 27130,
+    "total_1st_semester": 63510,
+    "total_other_semesters": 50000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Forestry",
+    "program_norm": "bs forestry",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 64285,
+    "other_dues": 27130,
+    "total_1st_semester": 91415,
+    "total_other_semesters": 77905,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Environmental Sciences",
+    "program_norm": "bs environmental sciences",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 36380,
+    "other_dues": 27130,
+    "total_1st_semester": 63510,
+    "total_other_semesters": 50000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Environmental Sciences",
+    "program_norm": "bs environmental sciences",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 64285,
+    "other_dues": 27130,
+    "total_1st_semester": 91415,
+    "total_other_semesters": 77905,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Agri. Business",
+    "program_norm": "bs agri business",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 64285,
+    "other_dues": 27130,
+    "total_1st_semester": 91415,
+    "total_other_semesters": 77905,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Food Science and Technology",
+    "program_norm": "bs food science and technology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 36380,
+    "other_dues": 27130,
+    "total_1st_semester": 63510,
+    "total_other_semesters": 50000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Food Science and Technology",
+    "program_norm": "bs food science and technology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 64285,
+    "other_dues": 27130,
+    "total_1st_semester": 91415,
+    "total_other_semesters": 77905,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Water Management",
+    "program_norm": "bs water management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 36380,
+    "other_dues": 27130,
+    "total_1st_semester": 63510,
+    "total_other_semesters": 50000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Water Management",
+    "program_norm": "bs water management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 64285,
+    "other_dues": 27130,
+    "total_1st_semester": 91415,
+    "total_other_semesters": 77905,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Genetics",
+    "program_norm": "bs genetics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 36380,
+    "other_dues": 27130,
+    "total_1st_semester": 63510,
+    "total_other_semesters": 50000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Genetics",
+    "program_norm": "bs genetics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 64285,
+    "other_dues": 27130,
+    "total_1st_semester": 91415,
+    "total_other_semesters": 77905,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Horticulture Science",
+    "program_norm": "bs horticulture science",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 36380,
+    "other_dues": 27130,
+    "total_1st_semester": 63510,
+    "total_other_semesters": 50000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Horticulture Science",
+    "program_norm": "bs horticulture science",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 64285,
+    "other_dues": 27130,
+    "total_1st_semester": 91415,
+    "total_other_semesters": 77905,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Education",
+    "program_norm": "bs education",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Education",
+    "program_norm": "bs education",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Secondary Education",
+    "program_norm": "bs secondary education",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Secondary Education",
+    "program_norm": "bs secondary education",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Elementary Education",
+    "program_norm": "bs elementary education",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Elementary Education",
+    "program_norm": "bs elementary education",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Educational Leadership and Management",
+    "program_norm": "bs educational leadership and management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Educational Leadership and Management",
+    "program_norm": "bs educational leadership and management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Early Childhood Education",
+    "program_norm": "bs early childhood education",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Early Childhood Education",
+    "program_norm": "bs early childhood education",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Department of Educational Training includes B.Ed 04 years (After FA/F.Sc)",
+    "program_norm": "department of educational training includes b ed 04 years after fa/f sc",
+    "acronyms": [
+      "fa"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "B.Ed 04 years (After FA/F.Sc)",
+    "program_norm": "b ed 04 years after fa/f sc",
+    "acronyms": [
+      "fa"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "B.Sc/ADE)",
+    "program_norm": "b sc/ade",
+    "acronyms": [
+      "ade"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "B.Sc/ADE)",
+    "program_norm": "b sc/ade",
+    "acronyms": [
+      "ade"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "M.Sc/BS)",
+    "program_norm": "m sc/bs",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "M.Sc/BS)",
+    "program_norm": "m sc/bs",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Ed)",
+    "program_norm": "bs ed",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Ed)",
+    "program_norm": "bs ed",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Physical Education & Sports Sciences",
+    "program_norm": "bs physical education and sports sciences",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 37540,
+    "other_dues": 27130,
+    "total_1st_semester": 64670,
+    "total_other_semesters": 51160,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Physical Education & Sports Sciences",
+    "program_norm": "bs physical education and sports sciences",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 46975,
+    "other_dues": 27130,
+    "total_1st_semester": 74105,
+    "total_other_semesters": 60595,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Special Education",
+    "program_norm": "bs special education",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Special Education",
+    "program_norm": "bs special education",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "B.Ed. 1.5 Years Special Education",
+    "program_norm": "b ed 1 5 years special education",
+    "acronyms": [],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "B.Ed. 1.5 Years Special Education",
+    "program_norm": "b ed 1 5 years special education",
+    "acronyms": [],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Educational Planning & Management",
+    "program_norm": "bs educational planning and management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Educational Planning & Management",
+    "program_norm": "bs educational planning and management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Department of Educational Research and Evaluation includes BEd Science (4-years) after FSc",
+    "program_norm": "department of educational research and evaluation includes bed science 4-years after fsc",
+    "acronyms": [],
+    "group": "Group-A",
+    "tuition_fee": 37540,
+    "other_dues": 27130,
+    "total_1st_semester": 64670,
+    "total_other_semesters": 51160,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BEd Science (4-years) after FSc",
+    "program_norm": "bed science 4-years after fsc",
+    "acronyms": [],
+    "group": "Group-B",
+    "tuition_fee": 46975,
+    "other_dues": 27130,
+    "total_1st_semester": 74105,
+    "total_other_semesters": 60595,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS or BSc",
+    "program_norm": "bs or bsc",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 37540,
+    "other_dues": 27130,
+    "total_1st_semester": 64670,
+    "total_other_semesters": 51160,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS or BSc",
+    "program_norm": "bs or bsc",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 46975,
+    "other_dues": 27130,
+    "total_1st_semester": 74105,
+    "total_other_semesters": 60595,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Science or MSc",
+    "program_norm": "bs science or msc",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 37540,
+    "other_dues": 27130,
+    "total_1st_semester": 64670,
+    "total_other_semesters": 51160,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Science or MSc",
+    "program_norm": "bs science or msc",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 46975,
+    "other_dues": 27130,
+    "total_1st_semester": 74105,
+    "total_other_semesters": 60595,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS English Language Teaching",
+    "program_norm": "bs english language teaching",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS English Language Teaching",
+    "program_norm": "bs english language teaching",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Arabic",
+    "program_norm": "bs arabic",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Arabic",
+    "program_norm": "bs arabic",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Islamic Studies",
+    "program_norm": "bs islamicstudies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Islamic Studies",
+    "program_norm": "bs islamicstudies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Islamic Studies with Specialization in Hadith & Seerah",
+    "program_norm": "bs islamicstudies with specialization in hadith and seerah",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "B.S Islamic Studies with Specialization in Hadith & Seerah",
+    "program_norm": "b s islamicstudies with specialization in hadith and seerah",
+    "acronyms": [],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Islamic Studies with Specialization in Quranic Studies",
+    "program_norm": "bs islamicstudies with specialization in quranicstudies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Islamic Studies with Specialization in Quranic Studies",
+    "program_norm": "bs islamicstudies with specialization in quranicstudies",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Islamic Studies with Specialization in Comparative Study of world Religions",
+    "program_norm": "bs islamicstudies with specialization in comparative study of world religions",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Islamic Studies with Specialization in Comparative Study of world Religions",
+    "program_norm": "bs islamicstudies with specialization in comparative study of world religions",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Translation & Interpretation",
+    "program_norm": "bs translation and interpretation",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Translation & Interpretation",
+    "program_norm": "bs translation and interpretation",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Islamic Studies with Specialization in Fiqha & Sharia",
+    "program_norm": "bs islamicstudies with specialization in fiqha and sharia",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Islamic Studies with Specialization in Fiqha & Sharia",
+    "program_norm": "bs islamicstudies with specialization in fiqha and sharia",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Chemistry",
+    "program_norm": "bs chemistry",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 37540,
+    "other_dues": 27130,
+    "total_1st_semester": 64670,
+    "total_other_semesters": 51160,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Chemistry",
+    "program_norm": "bs chemistry",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 46975,
+    "other_dues": 27130,
+    "total_1st_semester": 74105,
+    "total_other_semesters": 60595,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Biochemistry",
+    "program_norm": "bs biochemistry",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 37540,
+    "other_dues": 27130,
+    "total_1st_semester": 64670,
+    "total_other_semesters": 51160,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Biochemistry",
+    "program_norm": "bs biochemistry",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 46975,
+    "other_dues": 27130,
+    "total_1st_semester": 74105,
+    "total_other_semesters": 60595,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Physics",
+    "program_norm": "bs physics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 37540,
+    "other_dues": 27130,
+    "total_1st_semester": 64670,
+    "total_other_semesters": 51160,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Physics",
+    "program_norm": "bs physics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 46975,
+    "other_dues": 27130,
+    "total_1st_semester": 74105,
+    "total_other_semesters": 60595,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Mathematics",
+    "program_norm": "bs mathematics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 37540,
+    "other_dues": 27130,
+    "total_1st_semester": 64670,
+    "total_other_semesters": 51160,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Mathematics",
+    "program_norm": "bs mathematics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 46975,
+    "other_dues": 27130,
+    "total_1st_semester": 74105,
+    "total_other_semesters": 60595,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Zoology",
+    "program_norm": "bs zoology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 37540,
+    "other_dues": 27130,
+    "total_1st_semester": 64670,
+    "total_other_semesters": 51160,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Zoology",
+    "program_norm": "bs zoology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 46975,
+    "other_dues": 27130,
+    "total_1st_semester": 74105,
+    "total_other_semesters": 60595,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Botany",
+    "program_norm": "bs botany",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 37540,
+    "other_dues": 27130,
+    "total_1st_semester": 64670,
+    "total_other_semesters": 51160,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Botany",
+    "program_norm": "bs botany",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 46975,
+    "other_dues": 27130,
+    "total_1st_semester": 74105,
+    "total_other_semesters": 60595,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Microbiology",
+    "program_norm": "bs microbiology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 37540,
+    "other_dues": 27130,
+    "total_1st_semester": 64670,
+    "total_other_semesters": 51160,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Microbiology",
+    "program_norm": "bs microbiology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 46975,
+    "other_dues": 27130,
+    "total_1st_semester": 74105,
+    "total_other_semesters": 60595,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Computer Science",
+    "program_norm": "bs computer science",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 38030,
+    "other_dues": 27130,
+    "total_1st_semester": 65160,
+    "total_other_semesters": 51650,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Computer Science",
+    "program_norm": "bs computer science",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 52545,
+    "other_dues": 27130,
+    "total_1st_semester": 79675,
+    "total_other_semesters": 66165,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Information Technology",
+    "program_norm": "bs information technology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 38030,
+    "other_dues": 27130,
+    "total_1st_semester": 65160,
+    "total_other_semesters": 51650,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Information Technology",
+    "program_norm": "bs information technology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 52545,
+    "other_dues": 27130,
+    "total_1st_semester": 79675,
+    "total_other_semesters": 66165,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Software Engineering",
+    "program_norm": "bs software engineering",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 38030,
+    "other_dues": 27130,
+    "total_1st_semester": 65160,
+    "total_other_semesters": 51650,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Software Engineering",
+    "program_norm": "bs software engineering",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 52545,
+    "other_dues": 27130,
+    "total_1st_semester": 79675,
+    "total_other_semesters": 66165,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Artificial Intelligence",
+    "program_norm": "bs artificial intelligence",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 38030,
+    "other_dues": 27130,
+    "total_1st_semester": 65160,
+    "total_other_semesters": 51650,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Artificial Intelligence",
+    "program_norm": "bs artificial intelligence",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 52545,
+    "other_dues": 27130,
+    "total_1st_semester": 79675,
+    "total_other_semesters": 66165,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Information Security",
+    "program_norm": "bs information security",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 38030,
+    "other_dues": 27130,
+    "total_1st_semester": 65160,
+    "total_other_semesters": 51650,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Information Security",
+    "program_norm": "bs information security",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 52545,
+    "other_dues": 27130,
+    "total_1st_semester": 79675,
+    "total_other_semesters": 66165,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Internet of Things",
+    "program_norm": "bs internet of things",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 38030,
+    "other_dues": 27130,
+    "total_1st_semester": 65160,
+    "total_other_semesters": 51650,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Internet of Things",
+    "program_norm": "bs internet of things",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 52545,
+    "other_dues": 27130,
+    "total_1st_semester": 79675,
+    "total_other_semesters": 66165,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Data Sciences",
+    "program_norm": "bs data sciences",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 38030,
+    "other_dues": 27130,
+    "total_1st_semester": 65160,
+    "total_other_semesters": 51650,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Data Sciences",
+    "program_norm": "bs data sciences",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 52545,
+    "other_dues": 27130,
+    "total_1st_semester": 79675,
+    "total_other_semesters": 66165,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Statistics",
+    "program_norm": "bs statistics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 38670,
+    "other_dues": 27130,
+    "total_1st_semester": 65800,
+    "total_other_semesters": 52290,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Statistics",
+    "program_norm": "bs statistics",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Commerce",
+    "program_norm": "bs commerce",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Commerce",
+    "program_norm": "bs commerce",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS E-Commerce",
+    "program_norm": "bs e-commerce",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Accounting & Finance",
+    "program_norm": "bs accounting and finance",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Accounting & Finance",
+    "program_norm": "bs accounting and finance",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Banking and Finance",
+    "program_norm": "bs banking and finance",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 35590,
+    "other_dues": 27130,
+    "total_1st_semester": 62720,
+    "total_other_semesters": 49210,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Banking and Finance",
+    "program_norm": "bs banking and finance",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 45025,
+    "other_dues": 27130,
+    "total_1st_semester": 72155,
+    "total_other_semesters": 58645,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Supply Chain Management",
+    "program_norm": "bs supply chain management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Supply Chain Management",
+    "program_norm": "bs supply chain management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 50595,
+    "other_dues": 27130,
+    "total_1st_semester": 77725,
+    "total_other_semesters": 64215,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Digital Marketing",
+    "program_norm": "bs digital marketing",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Digital Marketing",
+    "program_norm": "bs digital marketing",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 50595,
+    "other_dues": 27130,
+    "total_1st_semester": 77725,
+    "total_other_semesters": 64215,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Leadership & Management",
+    "program_norm": "bs leadership and management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Leadership & Management",
+    "program_norm": "bs leadership and management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 50595,
+    "other_dues": 27130,
+    "total_1st_semester": 77725,
+    "total_other_semesters": 64215,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS in Disaster Management",
+    "program_norm": "bs in disaster management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS in Disaster Management",
+    "program_norm": "bs in disaster management",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 50595,
+    "other_dues": 27130,
+    "total_1st_semester": 77725,
+    "total_other_semesters": 64215,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BBA After 12 Years Education",
+    "program_norm": "bba after 12 years education",
+    "acronyms": [
+      "bba"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BBA After 12 Years Education",
+    "program_norm": "bba after 12 years education",
+    "acronyms": [
+      "bba"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 50595,
+    "other_dues": 27130,
+    "total_1st_semester": 77725,
+    "total_other_semesters": 64215,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BBA (After 14 Years of Education) (2-Years Program)",
+    "program_norm": "bba after 14 years of education 2-years program",
+    "acronyms": [
+      "bba"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BBA (After 14 Years of Education) (2-Years Program)",
+    "program_norm": "bba after 14 years of education 2-years program",
+    "acronyms": [
+      "bba"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 50595,
+    "other_dues": 27130,
+    "total_1st_semester": 77725,
+    "total_other_semesters": 64215,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Administrative & Management Sciences",
+    "program_norm": "bs administrative and management sciences",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Administrative & Management Sciences",
+    "program_norm": "bs administrative and management sciences",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 50595,
+    "other_dues": 27130,
+    "total_1st_semester": 77725,
+    "total_other_semesters": 64215,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "M.Phil/MS/MBA/MBA (Non Business)",
+    "program_norm": "mphil/ms/mba/mba non business",
+    "acronyms": [
+      "mba",
+      "ms"
+    ],
+    "group": "Evening",
+    "tuition_fee": 46380,
+    "other_dues": 29210,
+    "total_1st_semester": 75590,
+    "total_other_semesters": 60000,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Electrical Engineering",
+    "program_norm": "bsc electrical engineering",
+    "acronyms": [],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Electrical Engineering",
+    "program_norm": "bsc electrical engineering",
+    "acronyms": [],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Civil Engineering",
+    "program_norm": "bsc civil engineering",
+    "acronyms": [],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Civil Engineering",
+    "program_norm": "bsc civil engineering",
+    "acronyms": [],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Mechanical Engineering",
+    "program_norm": "bsc mechanical engineering",
+    "acronyms": [],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Mechanical Engineering",
+    "program_norm": "bsc mechanical engineering",
+    "acronyms": [],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Computer Engineering",
+    "program_norm": "bsc computer engineering",
+    "acronyms": [],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Computer Engineering",
+    "program_norm": "bsc computer engineering",
+    "acronyms": [],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Telecommunication Engineering",
+    "program_norm": "bsc telecommunication engineering",
+    "acronyms": [],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Telecommunication Engineering",
+    "program_norm": "bsc telecommunication engineering",
+    "acronyms": [],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Chemical Engineering",
+    "program_norm": "bsc chemical engineering",
+    "acronyms": [],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Chemical Engineering",
+    "program_norm": "bsc chemical engineering",
+    "acronyms": [],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Department of Architecture includes B.Arch Architecture",
+    "program_norm": "department of architecture includes b arch architecture",
+    "acronyms": [],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "B.Arch Architecture",
+    "program_norm": "b arch architecture",
+    "acronyms": [],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Doctor of Pharmacy (Pharm-D) (5 Years Program)",
+    "program_norm": "doctor of pharmacy pharm-d 5 years program",
+    "acronyms": [
+      "pharm-d"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Doctor of Pharmacy (Pharm-D) (5 Years Program)",
+    "program_norm": "doctor of pharmacy pharm-d 5 years program",
+    "acronyms": [
+      "pharm-d"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Doctor of Veterinary Medicine (DVM)",
+    "program_norm": "doctor of veterinary medicine dvm",
+    "acronyms": [
+      "dvm"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Doctor of Veterinary Medicine (DVM)",
+    "program_norm": "doctor of veterinary medicine dvm",
+    "acronyms": [
+      "dvm"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Doctor of Physical Therapy (DPT) (5 Years Program)",
+    "program_norm": "doctor of physical therapy dpt 5 years program",
+    "acronyms": [
+      "dpt"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "Doctor of Physical Therapy (DPT) (5 Years Program)",
+    "program_norm": "doctor of physical therapy dpt 5 years program",
+    "acronyms": [
+      "dpt"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Medical Laboratory Technology",
+    "program_norm": "bs medical laboratory technology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Medical Laboratory Technology",
+    "program_norm": "bs medical laboratory technology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Radiology & Imaging Technology",
+    "program_norm": "bs radiology and imaging technology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Radiology & Imaging Technology",
+    "program_norm": "bs radiology and imaging technology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Operation Theatre Technology",
+    "program_norm": "bs operation theatre technology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Operation Theatre Technology",
+    "program_norm": "bs operation theatre technology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Anesthesia Technology",
+    "program_norm": "bs anesthesia technology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Anesthesia Technology",
+    "program_norm": "bs anesthesia technology",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Nursing (4 Years Program)",
+    "program_norm": "bs nursing 4 years program",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BS Nursing (4 Years Program)",
+    "program_norm": "bs nursing 4 years program",
+    "acronyms": [
+      "bs"
+    ],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Nursing (2 Years Program)",
+    "program_norm": "bsc nursing 2 years program",
+    "acronyms": [],
+    "group": "Group-A",
+    "tuition_fee": 41760,
+    "other_dues": 27130,
+    "total_1st_semester": 68890,
+    "total_other_semesters": 55380,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  },
+  {
+    "program": "BSc Nursing (2 Years Program)",
+    "program_norm": "bsc nursing 2 years program",
+    "acronyms": [],
+    "group": "Group-B",
+    "tuition_fee": 66985,
+    "other_dues": 27130,
+    "total_1st_semester": 94115,
+    "total_other_semesters": 80605,
+    "source": "Revised fee.docx",
+    "category": "fees"
+  }
+]
